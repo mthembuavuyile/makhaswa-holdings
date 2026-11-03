@@ -4,129 +4,147 @@
   "images": [
     {
       "id": "earthworks-1",
-      "src": "images/projects/earthworks/surveying-1.jpeg",
+      "src": "images/projects/surveying-and-setting-out/surveying-1.jpeg",
       "alt": "Surveying team setting up equipment on site.",
       "title": "Surveying",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "surveying"
     },
     {
       "id": "earthworks-2",
       "src": "images/projects/earthworks/bulk-trenching-earthworks-1.jpeg",
       "alt": "Bulk trenching and earthworks in progress.",
       "title": "Bulk Trenching & Earthworks",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "bulk-earthworks"
     },
     {
       "id": "earthworks-3",
       "src": "images/projects/earthworks/earthworks-surfacing-1.jpeg",
       "alt": "Water bowser performing roadbed moisture conditioning and dust suppression during earthworks.",
       "title": "Road Earthworks & Moisture Compaction",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "bulk-earthworks"
     },
     {
       "id": "earthworks-4",
       "src": "images/projects/earthworks/makhaswa-1.jpeg",
       "alt": "A large cleared, graded, and leveled dirt field prepared for construction",
       "title": "Bulk Site Clearance",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "bulk-earthworks"
     },
     {
       "id": "earthworks-5",
       "src": "images/projects/earthworks/makhaswa-2.jpeg",
       "alt": "Workers spreading lime/cement stabiliser across a prepared subgrade, a soil stabilisation technique used before surfacing, with a TLB/tractor in the background",
       "title": "Subgrade Soil Stabilisation",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "bulk-earthworks"
     },
     {
       "id": "earthworks-6",
       "src": "images/projects/earthworks/makhaswa-4.jpeg",
       "alt": "Heavy roller compacting the prepared soil subgrade to meet engineering compaction codes",
       "title": "Subgrade Soil Compaction",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "bulk-earthworks"
     },
     {
       "id": "earthworks-7",
       "src": "images/projects/earthworks/makhaswa-3.jpeg",
       "alt": "A large cleared and graded site with compaction machinery in the distance preparing the ground",
       "title": "Clearing & Grubbing",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "bulk-earthworks"
     },
     {
       "id": "earthworks-8",
       "src": "images/projects/earthworks/makhaswa-5.jpeg",
       "alt": "Orange excavator digging a deep trench or channel for bulk earthworks preparation",
       "title": "Bulk Excavation",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "bulk-earthworks"
     },
     {
       "id": "earthworks-9",
       "src": "images/projects/earthworks/makhaswa-6.jpeg",
       "alt": "Excavated foundation trenches with concrete footing preparations on a construction site",
       "title": "Foundation Excavation",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "bulk-earthworks"
     },
     {
       "id": "earthworks-10",
-      "src": "images/projects/earthworks/surveying-and-setup-9.jpeg",
+      "src": "images/projects/surveying-and-setting-out/surveying-and-setup-9.jpeg",
       "alt": "Bricklaying crew constructing masonry walls within foundation trenches during substructure phase.",
       "title": "Substructure Brickwork & Masonry Construction",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "surveying"
     },
     {
       "id": "earthworks-11",
-      "src": "images/projects/earthworks/surveying-and-setup-8.jpeg",
+      "src": "images/projects/surveying-and-setting-out/surveying-and-setup-8.jpeg",
       "alt": "Surveyor positioning tripod instrument alongside masonry structure for setting-out verification.",
       "title": "Setting-Out Verification at Masonry Structure",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "surveying"
     },
     {
       "id": "earthworks-12",
-      "src": "images/projects/earthworks/surveying-and-setup-7.jpeg",
+      "src": "images/projects/surveying-and-setting-out/surveying-and-setup-7.jpeg",
       "alt": "Technician drilling wall penetration for services installation during building fit-out phase.",
       "title": "Wall Penetration for Services Installation",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "surveying"
     },
     {
       "id": "earthworks-13",
-      "src": "images/projects/earthworks/surveying-and-setup-6.jpeg",
+      "src": "images/projects/surveying-and-setting-out/surveying-and-setup-6.jpeg",
       "alt": "Worker inspecting rebar placement within foundation trench during structural phase.",
       "title": "Foundation Rebar Inspection",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "surveying"
     },
     {
       "id": "earthworks-14",
-      "src": "images/projects/earthworks/surveying-and-setup-5.jpeg",
+      "src": "images/projects/surveying-and-setting-out/surveying-and-setup-5.jpeg",
       "alt": "Surveying level instrument set up adjacent to structure under construction for datum reference.",
       "title": "Datum Reference & Level Instrument Setup",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "surveying"
     },
     {
       "id": "earthworks-15",
-      "src": "images/projects/earthworks/surveying-and-setup-4.jpeg",
+      "src": "images/projects/surveying-and-setting-out/surveying-and-setup-4.jpeg",
       "alt": "Site supervisor inspecting steel reinforcement grid prior to concrete slab pour.",
       "title": "Rebar Grid Inspection Before Slab Pour",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "surveying"
     },
     {
       "id": "earthworks-16",
-      "src": "images/projects/earthworks/surveying-and-setup-3.jpeg",
+      "src": "images/projects/surveying-and-setting-out/surveying-and-setup-3.jpeg",
       "alt": "PPE-equipped worker operating a theodolite to establish level and alignment on site.",
       "title": "On-Site Levelling & Alignment Check",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "surveying"
     },
     {
       "id": "earthworks-17",
-      "src": "images/projects/earthworks/surveying-and-setup-2.jpeg",
+      "src": "images/projects/surveying-and-setting-out/surveying-and-setup-2.jpeg",
       "alt": "Concrete strip footing laid along a foundation trench during early civil works.",
       "title": "Foundation Trench & Strip Footing",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "surveying"
     },
     {
       "id": "earthworks-18",
-      "src": "images/projects/earthworks/surveying-and-setup-1.jpeg",
+      "src": "images/projects/surveying-and-setting-out/surveying-and-setup-1.jpeg",
       "alt": "Surveyor operating a total station on open ground during initial site establishment.",
       "title": "Initial Site Survey & Instrument Setup",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "surveying"
     }
   ]
 }

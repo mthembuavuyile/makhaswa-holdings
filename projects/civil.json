@@ -4,493 +4,563 @@
   "images": [
     {
       "id": "civilworks-gabion-1",
-      "src": "images/projects/civilworks/gabion_mesh_retaining_wall_grass.jpg",
+      "src": "images/projects/civilworks/gabions/gabion-mesh-retaining-wall-grass.jpg",
       "alt": "Wire mesh gabion basket retaining wall installation with geotextile backing for embankment stabilization.",
       "title": "Gabion Basket Retaining Wall",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "gabions"
     },
     {
       "id": "civilworks-gabion-2",
-      "src": "images/projects/civilworks/gabion_retaining_wall_arch_bridge.jpg",
+      "src": "images/projects/civilworks/gabions/gabion-retaining-wall-arch-bridge.jpg",
       "alt": "Stepped gabion basket retaining wall and scour protection around multi-barrel corrugated steel arch culverts with workers hand-packing rock fill.",
       "title": "Gabion Scour Protection at Multi-Barrel Culvert",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "gabions"
     },
     {
       "id": "civilworks-gabion-3",
-      "src": "images/projects/civilworks/gabion_rock_wall_construction.jpg",
+      "src": "images/projects/civilworks/gabions/gabion-rock-wall-construction.jpg",
       "alt": "Multi-tier gabion retaining wall on steep embankment with precast concrete manholes and crushed stone stockpile on active civil works site.",
       "title": "Gabion Retaining Wall & Drainage Infrastructure",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "gabions"
     },
     {
       "id": "civilworks-stone-pitching-1",
-      "src": "images/projects/civilworks/stone-pitching-1.jpeg",
+      "src": "images/projects/civilworks/stone-pitching/stone-pitching-1.jpeg",
       "alt": "Worker in V-shaped drainage channel with timber formwork and reinforcing steel set for cast-in-situ concrete side drain lining along road embankment.",
       "title": "Concrete Side Drain & Channel Construction",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "stone-pitching"
     },
     {
       "id": "civilworks-stone-pitching-2",
-      "src": "images/projects/civilworks/stone-pitching-2.jpeg",
+      "src": "images/projects/civilworks/stone-pitching/stone-pitching-2.jpeg",
       "alt": "Workers hand-packing stone and preparing formwork for V-shaped concrete lined drainage channel with stone pitching along road infrastructure corridor.",
       "title": "Stone Pitching & Side Drain Channel Works",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "stone-pitching"
     },
     {
       "id": "civilworks-stone-pitching-3",
-      "src": "images/projects/civilworks/stone-pitching-3.jpeg",
+      "src": "images/projects/civilworks/stone-pitching/stone-pitching-3.jpeg",
       "alt": "Grouted stone pitching panels installed along road embankment drainage channel adjacent to multi-lane highway with workers continuing pitching operations.",
       "title": "Road Embankment Stone Pitching & Side Drains",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "stone-pitching"
     },
     {
       "id": "civilworks-culvert-bridge-1",
-      "src": "images/projects/civilworks/culvert-bridge.jpeg",
+      "src": "images/projects/civilworks/bridges/culvert-bridge.jpeg",
       "alt": "Multi-barrel precast concrete culvert bridge installation with wingwalls and scour protection.",
       "title": "Precast Concrete Culvert Bridge",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "bridges"
     },
     {
       "id": "civilworks-culvert-pipe-1",
-      "src": "images/projects/civilworks/culvert-civil-storm-sewer-pipe.jpeg",
+      "src": "images/projects/civilworks/pipe-laying/precast-concrete-pipe-installation.jpeg",
       "alt": "Heavy concrete stormwater pipes and culverts installed in trench with bedding.",
       "title": "Concrete Stormwater Pipe & Culvert Installation",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "pipe-laying"
     },
     {
       "id": "civilworks-highmast-1",
-      "src": "images/projects/civilworks/high-mast-electrical-1.jpeg",
+      "src": "images/projects/civilworks/electrical-infrastructure/high-mast-electrical-1.jpeg",
       "alt": "High-mast electrical infrastructure and lighting maintenance using a cherry picker with full safety helmet PPE.",
       "title": "High-Mast Electrical Works & Lighting Maintenance",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "electrical"
     },
     {
       "id": "civilworks-palisade-1",
-      "src": "images/projects/civilworks/palisade-fencing-1.jpeg",
+      "src": "images/projects/civilworks/boundary-walls/palisade-fencing.jpeg",
       "alt": "Concrete palisade and perimeter security fencing installation for civil infrastructure site.",
       "title": "Palisade & Perimeter Fencing",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "boundary-walls"
     },
     {
       "id": "civilworks-1",
-      "src": "images/projects/civilworks/pumphouse-steel-pipe-works-1.jpeg",
+      "src": "images/projects/civilworks/pump-stations/pumphouse-steel-pipe-works-1.jpeg",
       "alt": "Installation of large diameter steel pipes for pumphouse.",
       "title": "Pumphouse Steel Pipe Works",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "pump-stations"
     },
     {
       "id": "civilworks-2",
-      "src": "images/projects/civilworks/pumphouse-steel-pipe-works-2.jpeg",
+      "src": "images/projects/civilworks/pump-stations/pumphouse-steel-pipe-works-2.jpeg",
       "alt": "Pumphouse steel pipe works laid out on site.",
       "title": "Pumphouse Steel Pipe Works",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "pump-stations"
     },
     {
       "id": "civilworks-3",
-      "src": "images/projects/civilworks/pumphouse-steel-pipe-works-3.jpeg",
+      "src": "images/projects/civilworks/pump-stations/pumphouse-steel-pipe-works-3.jpeg",
       "alt": "Completed steel piping installations in pumphouse facility.",
       "title": "Pumphouse Steel Pipe Works",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "pump-stations"
     },
     {
       "id": "civilworks-4",
-      "src": "images/projects/civilworks/valves-and-groundwater-tanks-1.jpeg",
+      "src": "images/projects/civilworks/pump-stations/valves-and-groundwater-tanks-1.jpeg",
       "alt": "Large industrial valve installation on a pipeline.",
       "title": "Valves And Groundwater Tanks",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "pump-stations"
     },
     {
       "id": "civilworks-5",
-      "src": "images/projects/civilworks/valves-and-groundwater-tanks-2.jpeg",
+      "src": "images/projects/civilworks/pump-stations/valves-and-groundwater-tanks-2.jpeg",
       "alt": "Interior view of groundwater tank and valve infrastructure.",
       "title": "Valves And Groundwater Tanks",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "pump-stations"
     },
     {
       "id": "civilworks-6",
-      "src": "images/projects/civilworks/pumphouse-steel-pipe-works-4.jpeg",
+      "src": "images/projects/civilworks/pipe-laying/pumphouse-steel-pipe-works-5.jpeg",
       "alt": "Worker laying pumphouse pipes in an excavated trench.",
       "title": "Pumphouse Steel Pipe Works",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "pipe-laying"
     },
     {
       "id": "civilworks-9",
       "src": "images/aigenerated/concrete-panels.jpeg",
       "alt": "Precast concrete panel construction",
       "title": "Precast Concrete Panel Construction",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "general"
     },
     {
       "id": "civilworks-7",
-      "src": "images/projects/civilworks/pumphouse-steel-pipe-works-5.jpeg",
+      "src": "images/projects/civilworks/pipe-laying/pumphouse-steel-pipe-works-5.jpeg",
       "alt": "Long section of steel pipe installed in a deep trench.",
       "title": "Pumphouse Steel Pipe Works",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "pipe-laying"
     },
     {
       "id": "civilworks-8",
-      "src": "images/projects/civilworks/pumphouse-steel-pipe-works-6.jpeg",
+      "src": "images/projects/civilworks/pipe-laying/pumphouse-steel-pipe-works-6.jpeg",
       "alt": "Pipeline installation in trench.",
       "title": "Pumphouse Steel Pipe Works",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "pipe-laying"
     },
     {
       "id": "civilworks-10",
-      "src": "images/projects/civilworks/makhaswa-5.jpeg",
+      "src": "images/projects/earthworks/makhaswa-5.jpeg",
       "alt": "Completed multi-barrel concrete culvert bridge structure set into an embankment on a rural road",
       "title": "Culvert Bridge Construction",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "bulk-earthworks"
     },
     {
       "id": "civilworks-11",
-      "src": "images/projects/civilworks/makhaswa-26.jpeg",
+      "src": "images/projects/civilworks/pipe-laying/makhaswa-26.jpeg",
       "alt": "Large diameter concrete pipe laid inside a deep excavated trench for bulk stormwater infrastructure",
       "title": "Bulk Pipe Installation",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "pipe-laying"
     },
     {
       "id": "civilworks-12",
-      "src": "images/projects/civilworks/makhaswa-22.jpeg",
+      "src": "images/projects/civilworks/stormwater-and-drainage/makhaswa-22.jpeg",
       "alt": "Workers in PPE constructing a brick-lined manhole and junction box inside an excavated pit",
       "title": "Manhole & Junction Box Construction",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "stormwater"
     },
     {
       "id": "civilworks-13",
-      "src": "images/projects/civilworks/makhaswa-8.jpeg",
+      "src": "images/projects/civilworks/culverts/precast-box-culvert.jpeg",
       "alt": "Site worker in PPE supervising precast box culvert units being positioned on a prepared road base",
       "title": "Precast Box Culvert Installation",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "culverts"
     },
     {
       "id": "civilworks-14",
-      "src": "images/projects/civilworks/makhaswa-28.jpeg",
+      "src": "images/projects/civilworks/stormwater-and-drainage/makhaswa-28.jpeg",
       "alt": "Worker in PPE hand-laying bricks to construct a stormwater catch pit within a timber-shuttered excavation",
       "title": "Stormwater Catch Pit Construction",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "stormwater"
     },
     {
       "id": "civilworks-15",
-      "src": "images/projects/civilworks/makhaswa-24.jpeg",
+      "src": "images/projects/civilworks/retaining-walls/makhaswa-24.jpeg",
       "alt": "Dense steel rebar mesh and timber formwork prepared inside a deep excavation for a concrete retaining wall",
       "title": "Retaining Wall Construction",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "retaining-walls"
     },
     {
       "id": "civilworks-16",
-      "src": "images/projects/civilworks/makhaswa-16.jpeg",
+      "src": "images/projects/civilworks/stormwater-and-drainage/makhaswa-16.jpeg",
       "alt": "Placing concrete cover slabs on a stormwater drainage channel",
       "title": "Stormwater Channel & Cover Slabs",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "stormwater"
     },
     {
       "id": "civilworks-17",
-      "src": "images/projects/civilworks/makhaswa-17.jpeg",
+      "src": "images/projects/civilworks/stormwater-and-drainage/makhaswa-17.jpeg",
       "alt": "Brickwork and steel reinforcement for an underground stormwater chamber",
       "title": "Underground Junction Chamber",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "stormwater"
     },
     {
       "id": "civilworks-18",
-      "src": "images/projects/civilworks/makhaswa-18.jpeg",
+      "src": "images/projects/civilworks/pipe-laying/makhaswa-18.jpeg",
       "alt": "Workers installing large diameter concrete pipes in a deep trench",
       "title": "Bulk Concrete Pipeline Installation",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "pipe-laying"
     },
     {
       "id": "civilworks-19",
-      "src": "images/projects/civilworks/makhaswa-4.jpeg",
+      "src": "images/projects/civilworks/stormwater-and-drainage/makhaswa-4.jpeg",
       "alt": "Worker finishing a brick-lined stormwater catch pit junction",
       "title": "Stormwater Catch Pit Completion",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "stormwater"
     },
     {
       "id": "civilworks-20",
-      "src": "images/projects/civilworks/makhaswa-1.jpeg",
+      "src": "images/projects/civilworks/retaining-walls/makhaswa-1.jpeg",
       "alt": "Completed multi-cell precast concrete culvert bridge over a stream bed",
       "title": "Stormwater Culvert Bridge",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "retaining-walls"
     },
     {
       "id": "civilworks-21",
-      "src": "images/projects/civilworks/makhaswa-30.jpeg",
+      "src": "images/projects/civilworks/retaining-walls/makhaswa-30.jpeg",
       "alt": "Preparation for concrete structure steel reinforcement, and formwork",
       "title": "Concrete Structure Preparation",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "retaining-walls"
     },
     {
       "id": "civilworks-22",
-      "src": "images/projects/civilworks/makhaswa-23.jpeg",
+      "src": "images/projects/civilworks/pipe-laying/makhaswa-23.jpeg",
       "alt": "Worker in PPE next to a large diameter concrete stormwater pipe being installed in an excavated trench by a JCB excavator",
       "title": "Large Diameter Pipe Installation",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "pipe-laying"
     },
     {
       "id": "civilworks-26",
-      "src": "images/projects/civilworks/foundation-work-23.jpeg",
+      "src": "images/projects/buildingconstruction/residential/foundations/foundation-work-23.jpeg",
       "alt": "Civil engineering team pouring ready-mix concrete into foundation formwork and using mechanical vibrators for structural slab consolidation.",
       "title": "Concrete Slab Pouring & Formwork",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "foundations"
     },
     {
       "id": "civilworks-28",
-      "src": "images/projects/civilworks/foundation-work-21.jpeg",
+      "src": "images/projects/buildingconstruction/residential/foundations/foundation-work-21.jpeg",
       "alt": "Civil engineering team pouring ready-mix concrete into foundation formwork and using mechanical vibrators for structural slab consolidation.",
       "title": "Concrete Slab Pouring & Formwork",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "foundations"
     },
     {
       "id": "civilworks-33",
-      "src": "images/projects/civilworks/foundation-work-16.jpeg",
+      "src": "images/projects/buildingconstruction/residential/foundations/foundation-work-16.jpeg",
       "alt": "Precision leveling, surface floating, and finishing of the structural concrete floor slab on site.",
       "title": "Slab Leveling & Power Floating",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "foundations"
     },
     {
       "id": "civilworks-34",
-      "src": "images/projects/civilworks/foundation-work-15.jpeg",
+      "src": "images/projects/buildingconstruction/residential/foundations/foundation-work-15.jpeg",
       "alt": "Precision leveling, surface floating, and finishing of the structural concrete floor slab on site.",
       "title": "Slab Leveling & Power Floating",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "foundations"
     },
     {
       "id": "civilworks-35",
-      "src": "images/projects/civilworks/foundation-work-14.jpeg",
+      "src": "images/projects/buildingconstruction/residential/foundations/foundation-work-14.jpeg",
       "alt": "Precision leveling, surface floating, and finishing of the structural concrete floor slab on site.",
       "title": "Slab Leveling & Power Floating",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "foundations"
     },
     {
       "id": "civilworks-39",
-      "src": "images/projects/civilworks/foundation-work-10.jpeg",
+      "src": "images/projects/buildingconstruction/residential/foundations/foundation-work-10.jpeg",
       "alt": "Precision leveling, surface floating, and finishing of the structural concrete floor slab on site.",
       "title": "Slab Leveling & Power Floating",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "foundations"
     },
     {
       "id": "civilworks-41",
-      "src": "images/projects/civilworks/foundation-work-8.jpeg",
+      "src": "images/projects/buildingconstruction/residential/foundations/foundation-work-8.jpeg",
       "alt": "Curing structural concrete foundation plinth and inspecting load-bearing slab dimensions for compliance.",
       "title": "Concrete Curing & Quality Inspection",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "foundations"
     },
     {
       "id": "civilworks-43",
-      "src": "images/projects/civilworks/foundation-work-6.jpeg",
+      "src": "images/projects/buildingconstruction/residential/foundations/foundation-work-6.jpeg",
       "alt": "Curing structural concrete foundation plinth and inspecting load-bearing slab dimensions for compliance.",
       "title": "Concrete Curing & Quality Inspection",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "foundations"
     },
     {
       "id": "civilworks-46",
-      "src": "images/projects/civilworks/foundation-work-3.jpeg",
+      "src": "images/projects/buildingconstruction/residential/foundations/foundation-work-3.jpeg",
       "alt": "Curing structural concrete foundation plinth and inspecting load-bearing slab dimensions for compliance.",
       "title": "Concrete Curing & Quality Inspection",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "foundations"
     },
     {
       "id": "civilworks-47",
-      "src": "images/projects/civilworks/foundation-work-2.jpeg",
+      "src": "images/projects/buildingconstruction/residential/foundations/foundation-work-2.jpeg",
       "alt": "Curing structural concrete foundation plinth and inspecting load-bearing slab dimensions for compliance.",
       "title": "Concrete Curing & Quality Inspection",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "foundations"
     },
     {
       "id": "civilworks-53",
-      "src": "images/projects/civilworks/foundation-work-34.jpeg",
+      "src": "images/projects/buildingconstruction/residential/foundations/foundation-work-34.jpeg",
       "alt": "Foundation Surface Bed Preparation - High-quality civil engineering and construction.",
       "title": "Foundation Surface Bed Preparation",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "foundations"
     },
     {
       "id": "civilworks-55",
-      "src": "images/projects/civilworks/foundation-work-32.jpeg",
+      "src": "images/projects/buildingconstruction/residential/foundations/foundation-work-32.jpeg",
       "alt": "Steel Mesh Reinforcement for Concrete Slab - High-quality civil engineering and construction.",
       "title": "Steel Mesh Reinforcement for Concrete Slab",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "foundations"
     },
     {
       "id": "civilworks-56",
-      "src": "images/projects/civilworks/foundation-work-31.jpeg",
+      "src": "images/projects/buildingconstruction/residential/foundations/foundation-work-31.jpeg",
       "alt": "Residential Housing Foundation Prep - High-quality civil engineering and construction.",
       "title": "Residential Housing Foundation Prep",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "foundations"
     },
     {
       "id": "civilworks-57",
-      "src": "images/projects/civilworks/foundation-work-30.jpeg",
+      "src": "images/projects/buildingconstruction/residential/foundations/foundation-work-30.jpeg",
       "alt": "Foundation Surface Bed Preparation - High-quality civil engineering and construction.",
       "title": "Foundation Surface Bed Preparation",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "foundations"
     },
     {
       "id": "civilworks-58",
-      "src": "images/projects/civilworks/foundation-work-29.jpeg",
+      "src": "images/projects/buildingconstruction/residential/foundations/foundation-work-29.jpeg",
       "alt": "Damp Proof Membrane (DPM) Installation - High-quality civil engineering and construction.",
       "title": "Damp Proof Membrane (DPM) Installation",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "foundations"
     },
     {
       "id": "civilworks-59",
-      "src": "images/projects/civilworks/foundation-work-28.jpeg",
+      "src": "images/projects/buildingconstruction/residential/foundations/foundation-work-28.jpeg",
       "alt": "Steel Mesh Reinforcement for Concrete Slab - High-quality civil engineering and construction.",
       "title": "Steel Mesh Reinforcement for Concrete Slab",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "foundations"
     },
     {
       "id": "civilworks-60",
-      "src": "images/projects/civilworks/foundation-work-27.jpeg",
+      "src": "images/projects/buildingconstruction/residential/foundations/foundation-work-27.jpeg",
       "alt": "Residential Housing Foundation Prep - High-quality civil engineering and construction.",
       "title": "Residential Housing Foundation Prep",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "foundations"
     },
     {
       "id": "civilworks-64",
-      "src": "images/projects/civilworks/foundation-work-23.jpeg",
+      "src": "images/projects/buildingconstruction/residential/foundations/foundation-work-23.jpeg",
       "alt": "Residential Housing Foundation Prep - High-quality civil engineering and construction.",
       "title": "Residential Housing Foundation Prep",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "foundations"
     },
     {
       "id": "civilworks-66",
-      "src": "images/projects/civilworks/foundation-work-21.jpeg",
+      "src": "images/projects/buildingconstruction/residential/foundations/foundation-work-21.jpeg",
       "alt": "Damp Proof Membrane (DPM) Installation - High-quality civil engineering and construction.",
       "title": "Damp Proof Membrane (DPM) Installation",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "foundations"
     },
     {
       "id": "civilworks-71",
-      "src": "images/projects/civilworks/foundation-work-16.jpeg",
+      "src": "images/projects/buildingconstruction/residential/foundations/foundation-work-16.jpeg",
       "alt": "Steel Mesh Reinforcement for Concrete Slab - High-quality civil engineering and construction.",
       "title": "Steel Mesh Reinforcement for Concrete Slab",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "foundations"
     },
     {
       "id": "civilworks-72",
-      "src": "images/projects/civilworks/foundation-work-15.jpeg",
+      "src": "images/projects/buildingconstruction/residential/foundations/foundation-work-15.jpeg",
       "alt": "Residential Housing Foundation Prep - High-quality civil engineering and construction.",
       "title": "Residential Housing Foundation Prep",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "foundations"
     },
     {
       "id": "civilworks-73",
-      "src": "images/projects/civilworks/foundation-work-14.jpeg",
+      "src": "images/projects/buildingconstruction/residential/foundations/foundation-work-14.jpeg",
       "alt": "Foundation Surface Bed Preparation - High-quality civil engineering and construction.",
       "title": "Foundation Surface Bed Preparation",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "foundations"
     },
     {
       "id": "civilworks-77",
-      "src": "images/projects/civilworks/foundation-work-10.jpeg",
+      "src": "images/projects/buildingconstruction/residential/foundations/foundation-work-10.jpeg",
       "alt": "Foundation Surface Bed Preparation - High-quality civil engineering and construction.",
       "title": "Foundation Surface Bed Preparation",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "foundations"
     },
     {
       "id": "civilworks-79",
-      "src": "images/projects/civilworks/foundation-work-8.jpeg",
+      "src": "images/projects/buildingconstruction/residential/foundations/foundation-work-8.jpeg",
       "alt": "Steel Mesh Reinforcement for Concrete Slab - High-quality civil engineering and construction.",
       "title": "Steel Mesh Reinforcement for Concrete Slab",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "foundations"
     },
     {
       "id": "civilworks-81",
-      "src": "images/projects/civilworks/foundation-work-6.jpeg",
+      "src": "images/projects/buildingconstruction/residential/foundations/foundation-work-6.jpeg",
       "alt": "Foundation Surface Bed Preparation - High-quality civil engineering and construction.",
       "title": "Foundation Surface Bed Preparation",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "foundations"
     },
     {
       "id": "civilworks-84",
-      "src": "images/projects/civilworks/foundation-work-3.jpeg",
+      "src": "images/projects/buildingconstruction/residential/foundations/foundation-work-3.jpeg",
       "alt": "Residential Housing Foundation Prep - High-quality civil engineering and construction.",
       "title": "Residential Housing Foundation Prep",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "foundations"
     },
     {
       "id": "civilworks-85",
-      "src": "images/projects/civilworks/foundation-work-2.jpeg",
+      "src": "images/projects/buildingconstruction/residential/foundations/foundation-work-2.jpeg",
       "alt": "Foundation Surface Bed Preparation - High-quality civil engineering and construction.",
       "title": "Foundation Surface Bed Preparation",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "foundations"
     },
     {
       "id": "civilworks-89",
-      "src": "images/projects/civilworks/foundation-work-16.jpeg",
+      "src": "images/projects/buildingconstruction/residential/foundations/foundation-work-16.jpeg",
       "alt": "Bulk excavation, site clearing, and vegetation removal using heavy earthmoving machinery.",
       "title": "Bulk Excavation & Site Clearance",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "foundations"
     },
     {
       "id": "civilworks-90",
-      "src": "images/projects/civilworks/foundation-work-15.jpeg",
+      "src": "images/projects/buildingconstruction/residential/foundations/foundation-work-15.jpeg",
       "alt": "Bulk excavation, site clearing, and vegetation removal using heavy earthmoving machinery.",
       "title": "Bulk Excavation & Site Clearance",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "foundations"
     },
     {
       "id": "civilworks-91",
-      "src": "images/projects/civilworks/foundation-work-14.jpeg",
+      "src": "images/projects/buildingconstruction/residential/foundations/foundation-work-14.jpeg",
       "alt": "Bulk excavation, site clearing, and vegetation removal using heavy earthmoving machinery.",
       "title": "Bulk Excavation & Site Clearance",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "foundations"
     },
     {
       "id": "civilworks-95",
-      "src": "images/projects/civilworks/foundation-work-10.jpeg",
+      "src": "images/projects/buildingconstruction/residential/foundations/foundation-work-10.jpeg",
       "alt": "Mechanical subgrade soil compaction and leveling to prepare a stable building platform to civil codes.",
       "title": "Subgrade Compaction & Platform Prep",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "foundations"
     },
     {
       "id": "civilworks-97",
-      "src": "images/projects/civilworks/foundation-work-8.jpeg",
+      "src": "images/projects/buildingconstruction/residential/foundations/foundation-work-8.jpeg",
       "alt": "Mechanical subgrade soil compaction and leveling to prepare a stable building platform to civil codes.",
       "title": "Subgrade Compaction & Platform Prep",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "foundations"
     },
     {
       "id": "civilworks-99",
-      "src": "images/projects/civilworks/foundation-work-6.jpeg",
+      "src": "images/projects/buildingconstruction/residential/foundations/foundation-work-6.jpeg",
       "alt": "Mechanical subgrade soil compaction and leveling to prepare a stable building platform to civil codes.",
       "title": "Subgrade Compaction & Platform Prep",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "foundations"
     },
     {
       "id": "civilworks-102",
-      "src": "images/projects/civilworks/foundation-work-3.jpeg",
+      "src": "images/projects/buildingconstruction/residential/foundations/foundation-work-3.jpeg",
       "alt": "Excavated foundation trenches with structural profiles and line markings set up for geotechnical survey.",
       "title": "Foundation Trench Excavation",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "foundations"
     },
     {
       "id": "civilworks-103",
-      "src": "images/projects/civilworks/foundation-work-2.jpeg",
+      "src": "images/projects/buildingconstruction/residential/foundations/foundation-work-2.jpeg",
       "alt": "Excavated foundation trenches with structural profiles and line markings set up for geotechnical survey.",
       "title": "Foundation Trench Excavation",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "foundations"
     },
     {
       "id": "civilworks-105",
-      "src": "images/projects/buildingconstruction/concrete-bridges-1.jpeg",
+      "src": "images/projects/civilworks/bridges/concrete-bridges-1.jpeg",
       "alt": "Formwork and reinforcement for a cast-in-situ concrete bridge.",
       "title": "Cast-In-Situ Reinforced Concrete Bridges",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "bridges"
     },
     {
       "id": "civilworks-106",
-      "src": "images/projects/buildingconstruction/concrete-bridges-2.jpeg",
+      "src": "images/projects/civilworks/bridges/concrete-bridges-2.jpeg",
       "alt": "Wide view of cast-in-situ reinforced concrete bridge construction.",
       "title": "Cast-In-Situ Reinforced Concrete Bridges",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "bridges"
     },
     {
       "id": "civilworks-107",
-      "src": "images/projects/buildingconstruction/concrete-bridges-3.jpeg",
+      "src": "images/projects/civilworks/bridges/concrete-bridges-3.jpeg",
       "alt": "Reinforcing steel laid out for concrete bridge deck.",
       "title": "Cast-In-Situ Reinforced Concrete Bridges",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "subdiscipline": "bridges"
     }
   ]
 }
