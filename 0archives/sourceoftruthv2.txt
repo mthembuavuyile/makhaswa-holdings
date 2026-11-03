@@ -1,0 +1,738 @@
+================================================================================
+MAKHASWA HOLDINGS (PTY) LTD
+MASTER SOURCE OF TRUTH — CONSOLIDATED CORPORATE RECORD (2026)
+================================================================================
+Compiled from three source documents:
+  [A] "Company Overview" one-pager
+  [B] "Master Source of Truth & Comprehensive Corporate Record" (long-form)
+  [C] "Company Profile 2017" (scanned/OCR business profile booklet)
+
+This file merges all information found across the three sources. Where sources
+agree, the fact is stated once. Where a source adds detail not found elsewhere,
+it is preserved and marked with its source tag. Where sources CONFLICT, both
+versions are shown side by side under "⚠ CONFLICT" so nothing is silently
+discarded or guessed at. A full conflict/verification log is at the end
+(Section 17).
+
+Registration No: 2017/307900/07 | "Live Beyond Measures"
+================================================================================
+
+
+SECTION 1 — COMPANY OVERVIEW
+================================================================================
+Makhaswa Holdings (Pty) Ltd is a fully/100% Black-owned civil engineering and
+building construction company headquartered in Johannesburg/Midrand, Gauteng,
+South Africa. Incorporated with the CIPC on 17 July 2017 as a private company
+to establish a formal legal entity and corporate identity. [A][B][C]
+
+The company trades in Civil Engineering, Building Construction, Mechanical
+Engineering, and Electrical Engineering [B], and has built a reputation
+delivering large-scale infrastructure and building projects for public and
+private sector clients across South Africa. [A][B]
+
+Corporate slogan: "Live Beyond Measures" [A][B][C]
+Secondary taglines (source B only): "Building with Purpose & Engineering
+Precision" | "We Don't Just Construct Buildings — We Create Lasting Legacies."
+
+Digital presence (source B only — not corroborated in A or C):
+  Website:  https://www.makhaswaholdings.co.za
+  Facebook: https://www.facebook.com/p/Makhaswa-Holdings-61573713636972/
+  LinkedIn: https://www.linkedin.com/company/makhaswaholdings/
+  Website built by: Vylex (https://vylex.co.za)
+
+
+SECTION 2 — STATUTORY & REGISTRATION DETAILS
+================================================================================
+Field                          | Value                          | Source(s)
+--------------------------------|--------------------------------|------------
+Full Legal Name                | Makhaswa Holdings (Pty) Ltd    | A,B,C
+Registration Number (CIPC)     | 2017/307900/07                 | A,B,C
+                                | (also cited as K2017/307900/07)| B
+Date of Incorporation          | 17 July 2017                   | A,B
+Company Type                   | Private Company (Pty) Ltd      | A,B
+Employees                      | 100 – 200                      | A,B
+B-BBEE Status                  | Level 1 Contributor            | A,B
+B-BBEE Procurement Recognition | 135%                           | A,B
+Black Ownership                | 100%                           | B (A says
+                                |                                | "fully")
+Black Female Ownership         | 50%                            | B only
+Income Tax Number              | 9670117176                     | A,B,C
+COIDA Registration No.         | 990001157115                   | A,B
+UIF Number                     | 2577464/8                      | A,B
+CSD Registration Number        | MAAA0584716                    | A,B
+CoJ Vendor Number              | 125166                         | A,B
+CIDB Grades (all sources agree | 6GB, 7SB, 7EB, 8CE, 8ME         | A,B,C
+on the 5 grades; see Section 8 |                                |
+for full breakdown)            |                                |
+
+⚠ CONFLICT — VAT Registration Number
+  Source A: 4840286027
+  Source B: 4840286027
+  Source C: 840286027 (one digit shorter — very likely an OCR dropped-digit
+            error in the scanned document, since A and B agree independently)
+  ➜ Best available value: 4840286027 (2 of 3 sources agree; C is scanned/OCR)
+
+⚠ CONFLICT — GPG (Gauteng Provincial Government) Vendor Number
+  Source A: 11000148444
+  Source B: cites BOTH "11000148444 / 111000148444" (acknowledges its own
+            inconsistency)
+  Source C: 111000148444
+  ➜ Two candidate values exist across sources: 11000148444 and 111000148444.
+    Recommend verifying directly against the CSD/GPG vendor certificate
+    before use in a tender submission.
+
+
+SECTION 3 — BANKING DETAILS
+================================================================================
+(Confirmed identically in Sources B and C; not present in Source A)
+  Account Holder:     Makhaswa Holdings (Pty) Ltd
+  Bank:               First National Bank (FNB)
+  Account Type:       Cheque / Current Account
+  Account Number:     62763534445
+  Branch Name:        Pretoria
+  Branch Code:        251445
+  Authorized Signatory: Lucas Dinga (Chief Executive Officer)
+
+
+SECTION 4 — OFFICES & NATIONAL FOOTPRINT
+================================================================================
+4.1 Confirmed offices (appear in 2 or more sources)
+--------------------------------------------------
+PRETORIA OFFICE
+  Address:   869 Patryshond Street, Garsfontein, Pretoria, Gauteng, 0042
+  Tel:       012 944 1702
+  Municipality: City of Tshwane Metropolitan Municipality [B]
+  Scope (per B): Corporate admin, executive leadership, estimating, finance,
+  commercial tendering, technical design.
+
+MIDRAND OFFICE (Head Office)
+  Address:   [Temporarily unlisted / removed from active publication per corporate directive]
+  Tel:       011 568 0938
+  Municipality: City of Johannesburg Metropolitan Municipality [B]
+  Archive Note: Johannesburg:[Riversands Incubation Hub, Midrand, Johannesburg, 2189](https://maps.google.com/?q=Riversands%20Incubation%20Hub)
+  — Address removed everywhere from active public profiles/website per corporate instruction for now; retained in archive notes.
+  Note: Source C (2017 profile) listed this original Riversands address simply
+  under "Johannesburg, Gauteng" with no separate Pretoria office mentioned —
+  consistent with it being the earliest/original office before Pretoria
+  was added.
+  Scope (per B): Plant dispatch, central logistics, materials management,
+  project management, Johannesburg municipal contracts.
+
+4.2 Additional regional offices — SOURCE B ONLY (unverified elsewhere)
+--------------------------------------------------
+⚠ The following two offices appear only in Source B (the long-form "Master"
+document) and are NOT corroborated by Source A or Source C. Recommend
+verifying these are current/active before publishing externally.
+
+LIMPOPO REGIONAL OFFICE (Mokopane)
+  Address: 197 Dudu Madisha Drive, Chroompark, Mokopane, Limpopo, 0656
+  Tel: 012 944 1702 (same number as Pretoria office)
+  Municipality: Mogalakwena Local Municipality / Waterberg District
+  Scope: Provincial road contracts (e.g. RAL/T1171/2021 Dwaalboom), water
+  treatment & reticulation, mining infrastructure, Waterberg district projects.
+
+KWAZULU-NATAL REGIONAL OFFICE (Durban)
+  Address: 71 Bertha Mkhize Street, Durban Central, Durban, KZN, 4001
+  Tel: 012 944 1702 (same number as Pretoria office)
+  Municipality: eThekwini Metropolitan Municipality
+  Scope: Coastal infrastructure, high-mast & electrical reticulation,
+  structural building works, eThekwini municipal projects.
+
+
+SECTION 5 — CONTACT DIRECTORY
+================================================================================
+Johannesburg/Midrand Tel:   011 568 0938
+Pretoria Tel:                012 944 1702
+WhatsApp:                    +27 81 359 8003
+General Email:                info@makhaswaholdings.co.za
+Admin Email:                  admin@makhaswaholdings.co.za
+Tenders Email:                tenders@makhaswaholdings.co.za
+Careers/HR Email (Source B only): careers@makhaswaholdings.co.za
+Director Email:               makhaswaholdings@gmail.com
+Business Hours:               Monday – Friday, 08:00 – 17:00 (SAST)
+  (Source B adds: "Emergency site teams active 24/7 as scheduled" — unverified
+  elsewhere)
+
+
+SECTION 6 — OWNERSHIP & GOVERNANCE
+================================================================================
+⚠ CONFLICT — Company Owners' Names
+  Source A: "owned by Lucas Dinga and Ms. Nelly"
+  Source B: "founded and directed by Lucas Dinga and Nelly Motswapong
+            (Ms. Nelly)" — gives Nelly's full surname
+  Source C: "owned by Nelly Motswapong and Onele Dinga" — names the male
+            co-owner "Onele Dinga", NOT "Lucas Dinga"
+  ➜ Note: Source C's own organogram section, two paragraphs later, lists
+    "COMPANY DIRECTORS: (CR 7(19c)) Mr. Lucas Dinga" — i.e. Source C
+    contradicts itself internally. This strongly suggests "Onele Dinga" in
+    the About Us paragraph of Source C is an OCR misread of "Lucas Dinga"
+    (the scanned document has visible OCR corruption elsewhere too).
+    Best available value: Lucas Dinga (supported by A, B, and Source C's
+    own organogram). Recommend confirming spelling against a CIPC/CIPC
+    director record if this matters for legal documents.
+
+Nelly Motswapong — Director / Co-Owner (full name only given in Source B)
+  Directs: executive oversight, corporate strategy, human capital
+  development, enterprise transformation, organizational administration.
+
+Lucas Dinga — Chief Executive Officer
+  Oversees: new business sourcing, procurement, project management,
+  service expansion, joint ventures, high-level project governance,
+  client relations, capital investment, business strategy. [A,B,C]
+  Sole authorised business signatory for bank transactions and official
+  company documents. [A,B,C]
+
+⚠ CONFLICT — Years of CEO's Experience
+  Source A: "more than seven (7) years" experience in building and civil
+            construction
+  Source B: "seven (7) to ten (10) years" (hedges/combines both figures)
+  Source C: "more than seven (10) years" (internally inconsistent phrasing —
+            likely OCR/typo conflating "7" and "10")
+  ➜ Best available reading: 7+ years as the consistent floor figure across
+    all three; "10 years" appears to be either an update over time (2017
+    profile → later years) or an OCR artifact. If this is a live tender
+    document, recommend using the CEO's actual verified start date to
+    calculate current experience rather than any of the above.
+
+
+SECTION 7 — ORGANOGRAM / KEY PERSONNEL
+================================================================================
+All statutory (CR) appointments per OHS Act 85 of 1993 / Construction
+Regulations 2014.
+
+Name                    | Role                              | CR Ref      | Source
+-------------------------|-----------------------------------|-------------|-------
+Lucas Dinga              | Chief Executive Officer /          | CR 7(19c)   | A,B,C
+                          | Company Director                  |             |
+Sfiso (Sifiso) Knowledge | Construction Manager / Site Agent | CR 8,1      | A,B,C
+ Nkabinde                |                                    |             |
+Lindelani Shangase       | SHEQ Officer (Pr.OHS)             | CR 8,5      | A,B,C
+Henry Chauke             | Section Supervisor                | CR 8,8      | A,B
+Hendrick Chauke          | Quality Controller (QC)           | CR 8,38 (B) | A,B,C
+                          |                                    | (no ref, A) |
+C. Mazarura              | Professional Land Surveyor        | Pr.L.S.     | A,B,C
+Thabiso Paul Mabetoa     | Safety Representative             | CR 17,1     | B,C
+                          |                                    |             | (not in A)
+
+Contract Manager Contact (Goodman Mdaka per Source B & C):
+Tel 074 481 0520, Email makhaswaholdings@gmail.com
+
+
+SECTION 8 — CIDB, NHBRC & CERTIFICATIONS
+================================================================================
+8.1 CIDB (Construction Industry Development Board)
+  CRS Number: 10153817 | Status: Active [A,B]
+
+  Grade | Code   | Discipline                  | Max Tender Value (Source B only)
+  ------|--------|------------------------------|-----------------------------------
+  8     | 8CE PE | Civil Engineering            | Up to R200 Million
+  8     | 8ME PE | Mechanical Engineering       | Up to R200 Million
+  7     | 7SB PE | Specialist Building Works    | Up to R60 Million
+  7     | 7EB PE | Electrical Engineering       | Up to R60 Million
+  6     | 6GB PE | General Building             | Up to R30 Million
+
+  All three sources agree on the five grade/discipline pairs. Only Source B
+  provides the rand-value tender ceilings — treat these as indicative unless
+  verified against the actual CIDB certificate, as ceilings are periodically
+  revised by the CIDB.
+
+8.2 NHBRC (National Home Builders Registration Council)
+  Registration Number: 4000006217
+  Status: Provisional Grade/Class 5 Home Builder [A,B]
+  Compliance: Housing Consumers Protection Measures Act, 1998 (Act 95 of 1998)
+
+8.3 ISO Certifications & SHEQ (Source A & B; not itemised in C)
+  • ISO 9001:2015 – Quality Management Systems
+  • ISO 14001:2015 – Environmental Management Systems
+  • ISO 45001:2018 – Occupational Health & Safety Management Systems
+  • National SHEQ Certification/Framework
+
+8.4 Professional & Industry Affiliations (Source B only)
+  • SAFCEC — South African Federation of Civil Engineering Contractors
+  • MBA — Master Builders Association
+  • SACPCMP — South African Council for Project and Construction Management
+    Professions
+  • ECSA — Engineering Council of South Africa
+  ⚠ Unverified elsewhere — confirm active membership before citing in a
+    tender submission.
+
+
+SECTION 9 — CORE SERVICES
+================================================================================
+Source C's original marketing graphic grouped services under four banner
+categories:
+  "URBAN & RURAL ROADS | ENVIRONMENTAL & SUPPORT SERVICES |
+   WATER & SANITATION | STRUCTURAL & BUILDING SERVICES"
+
+Below, the detailed service lists from all sources are mapped into that
+four-category framework, with nothing omitted.
+
+9.1 URBAN & RURAL ROADS
+------------------------
+  • Kerbing and paving
+  • Layer works (roadbed, selected, stabilised sub-base, base layers)
+  • Road rehabilitation and maintenance
+  • Asphalt surfacing (overlay & inlay); mill-and-replace inlays
+  • Slurry seal application; single/double chip-and-spray surfacing
+  • Road profiling and surveying / setting-out of road profiles
+  • Concrete stabilisation (C3/C4 cement-treated layers)
+  • Retaining walls
+  • Crack routing and hot elastomeric bituminous sealing
+  • Road traffic signage, guardrails with terminal ends
+  • Thermoplastic retro-reflective road markings, road studs
+  • Traffic-calming speed humps
+  • Traffic lights and traffic signals (intersection signalization, control cabling, and road ancillaries)
+
+9.2 ENVIRONMENTAL & SUPPORT SERVICES (Earthworks)
+------------------------
+  • Site clearance and grubbing
+  • Demolitions
+  • Mass earthworks / bulk excavation, cut-to-fill balancing
+  • Basement excavation, deep trenching (soft/intermediate/hard rock)
+  • Topsoil stripping and stockpiling for rehabilitation
+  • Subgrade preparation, ripping and re-compaction, lime/cement
+    stabilisation
+  • Environmental management aligned to ISO 14001: hazardous waste
+    handling, silt fences/berms/retention basins, post-construction
+    landscape rehabilitation (Source B)
+
+9.3 WATER & SANITATION (Civil Works / Water & Sewer)
+------------------------
+  • Stormwater drainage systems
+  • Sewer and pipeline installation / gravity outfall sewer mains
+  • Stone pitching
+  • Gabions and Reno mattresses
+  • Guardrails
+  • Subsoil drainage systems (perforated HDPE/Kaytech pipes, geotextile wrap)
+  • Drainage structures: manholes, catchpits, kerb inlets
+  • Potable water reticulation, individual erf connections, water meter
+    kiosks
+  • Mechanical pump stations, wet wells, reservoirs, valve chambers
+    (Source B)
+
+9.4 STRUCTURAL & BUILDING SERVICES (General Building / Plumbing / Paving)
+------------------------
+  • Residential developments (incl. low- and middle-income housing, RDP/GAP
+    housing)
+  • Commercial and industrial buildings
+  • Service and public buildings; schools, clinics
+  • Full trade execution: formwork, reinforced concrete, brickwork,
+    plastering, roofing, ceilings, tiling, glazing, ironmongery, painting
+  • Residential and commercial plumbing: leak detection/repairs, drain
+    cleaning, pipe installation, water heating systems
+  • Paving solutions: driveways, walkways, patios, custom paving
+  • High-mast & area lighting, LV/MV electrical reticulation, substation
+    civil works (Source B)
+  • Specialist building works: structural steel framework, acoustic
+    drywall partitioning, raised access flooring, damp-proofing/
+    waterproofing systems (Source B)
+
+9.5 PROJECT MANAGEMENT (cross-cutting, Source A & B)
+------------------------
+  • Full project lifecycle management
+  • Engineering planning and execution
+  • Site coordination and supervision
+  • Scope/baseline management, Primavera P6/MS Project scheduling,
+    procurement, BOQ administration, SHEQ auditing, QC, stakeholder
+    liaison, contractual closeout (Source B)
+
+
+SECTION 10 — PROJECT DELIVERY METHODOLOGY (Source B only)
+================================================================================
+Executed under GCC 2015, JBCC, FIDIC, and NEC3 contract standards, in five
+stages: (1) Initiation & Mobilisation, (2) Procurement & Resource Plan,
+(3) Execution & Site Supervision, (4) Quality Assurance & SHEQ Control,
+(5) Handover, Closeout & Defects Liability Period.
+
+Quality control practices cited: SANAS-accredited third-party material
+testing; Troxler nuclear gauge / sand replacement field density testing;
+150mm concrete test cubes at 7/14/28-day compressive strength intervals;
+continuous total station/GPS setting-out.
+
+
+SECTION 11 — PLANT, EQUIPMENT & FLEET (Source B only — unverified elsewhere)
+================================================================================
+Earthmoving: 20t–30t excavators, heavy-duty 4x4 TLBs, motor graders
+(140K/H class), bulldozers (D6/D7)
+Compaction & Surfacing: 10t–12t smooth-drum and padfoot compactors,
+bitumen asphalt paver, walk-behind rollers
+Haulage: 10m³–15m³ tipper trucks, 30t low-bed truck & trailer,
+10,000L–16,000L water tankers, LDV site bakkies
+Survey & Testing: Leica/Topcon total stations, dual-frequency GPS kits,
+slump and compaction test kits
+Site Power & Utilities: 50kVA–150kVA generators, mobile compressors,
+mobile office/ablution units
+Software: AutoCAD 2024/Civil 3D, MS Project/Primavera P6, Model Maker/
+Candy WinQS
+
+
+SECTION 12 — HUMAN RESOURCES
+================================================================================
+Staffing: 100–200 employees, scaling per contract (Source A/B). Source C's
+2017 profile describes an earlier, leaner model: "staff hired as and when
+required... when a contract needing extra manpower is secured, people are
+employed on a short-term basis, tied to contract duration" — i.e. the
+company's staffing model appears to have matured from purely contract-based
+hiring (2017) toward a larger core workforce (later years).
+
+Typical roles recruited (Source B): Civil Engineer (ECSA-registered),
+Construction Manager/Site Agent (SACPCMP), SHEQ Officer (Pr.OHS/SAMTRAC),
+Section Supervisor/Foreman, Quality Controller, Quantity Surveyor/Estimator,
+Professional Land Surveyor, Heavy Plant Operators, Artisans & Trades,
+Artisan Apprentices/Learners (3-year programmes).
+
+Careers contact (Source B only): careers@makhaswaholdings.co.za
+
+
+SECTION 13 — COMMUNITY IMPACT / CORPORATE SOCIAL INVESTMENT
+================================================================================
+Better Housing: delivery of affordable, durable residential solutions. [A]
+Safer Infrastructure: improved road/transport networks. [A]
+Essential Services: reliable water, drainage and sanitation systems. [A]
+Sustainable Development: environmentally responsible construction aligned
+to ISO 14001. [A]
+
+Source B additionally specifies:
+  • Local labour prioritisation: 30–50% of project labour sourced from the
+    beneficiary community, with youth/women equal-opportunity targets
+  • SMME development & subcontracting: ring-fenced work packages (paving,
+    kerbing, painting, fencing, security) with mentorship for local
+    emerging subcontractors
+  • Direct community contributions: sports sponsorships, materials
+    donations, school facility support (e.g. Diepsloot West Secondary
+    School)
+
+
+SECTION 14 — WHY CHOOSE MAKHASWA HOLDINGS (Source A)
+================================================================================
+  • Established industry experience since 2017
+  • Skilled workforce of 100–200 employees
+  • CIDB Grade 8 multi-disciplinary contractor
+  • NHBRC-registered home builder (Grade 5 Provisional)
+  • B-BBEE Level 1 contributor — 135% procurement recognition
+  • ISO 9001, ISO 14001, and ISO 45001 certified management systems
+  • Strong full-lifecycle project management capability
+  • On-time, cost-effective project delivery
+  • High-quality workmanship and compliance focus
+  • Trusted by public sector clients including City of Tshwane and City of
+    Johannesburg
+
+
+SECTION 15 — PROJECT EXPERIENCE (FULL DEDUPLICATED ARCHIVE)
+================================================================================
+Projects are numbered chronologically. Where two sources describe the same
+project with different detail levels, all details from both are merged
+into one entry. Contact details are cross-checked and consistent unless
+noted.
+
+--------------------------------------------------------------------------------
+PROJECT 01 — Diepsloot Extension 06 Roads
+--------------------------------------------------------------------------------
+Contract No.:  JRA/19/214 (number given in Source B; not stated in A/C)
+Client:        Subcontracted under SR Construction for Johannesburg Roads
+               Agency (JRA)
+Period:        May 2019 – November 2019
+Area:          Diepsloot Extension 06, Region A, Gauteng
+Scope: Site clearance and mass excavation of pipeline trenches; supply,
+bedding, laying, jointing and sealing of spigot-and-socket stormwater
+pipes (diameters: 450, 525, 600, 675, 750, 825, 900, 1200mm); installation
+of subsoil drainage pipes — 7.5mm diameter (per A/C) / 75mm diameter
+described in B's narrative text (⚠ minor conflict: "7.5mm" appears in both
+A and C verbatim, which is almost certainly a typo for "75mm" given
+industry-standard subsoil pipe sizing — B's prose independently uses
+75mm); construction of catchpits, manholes, kerb inlets; construction of
+mass concrete and brick retaining walls; road subgrade prep and C4
+cement-stabilised layerworks; precast concrete kerbing (Figures 8, 8C,
+12, 3) with concrete haunching/jointing; 60mm and 80mm interlocking
+paving blocks, grouted and plate-compacted.
+Contact: Mr. Sydney Mello (Contractor Manager) — 084 055 7742
+
+--------------------------------------------------------------------------------
+PROJECT 02 — Upgrading of Gravel Roads to Asphalt, Diepsloot Extension 11
+(Phase 4)
+--------------------------------------------------------------------------------
+Contract No.:  JRA/21/59
+Client:        Subcontracted under Anvisda Plant & Civils for JRA
+Period:        21 June 2021 – 24 June 2022
+Area:          Diepsloot Extension 11, Region A, Gauteng
+Scope: Clearing and grubbing; sub-soil drainage systems; installation of
+stormwater pipes (675, 825, 900 & 1200mm — spigot & socket); subsoil
+drainage 7.5mm diameter (per A) / consolidated as part of the 75mm-class
+subsoil system elsewhere; concrete block paving — 60mm interlock paving
+blocks; roadbed formation, sub-base compaction, asphalt surfacing prep.
+Contact: Mr. Omen Metani (Site Manager) — 071 704 1876
+
+--------------------------------------------------------------------------------
+PROJECT 03 — Construction/Rehabilitation of Road D2702, PPC to Dwaalboom
+--------------------------------------------------------------------------------
+Contract No.:  RAL/T1171/2021
+Client:        Subcontracted under Tarcron Projects for Roads Agency
+               Limpopo (RAL)
+Period:        16 June 2021 – 19 December 2023 (Source B & C agree)
+Area:          Waterberg District, Limpopo Province
+Scope: Pavement layer repairs; asphalt layers/overlay; repair of surface
+failures; slurry seal and chip-and-spray single seal; sealing of active
+cracks (hot-pour elastomeric bitumen); road marking (retro-reflective
+thermoplastic, road studs); pothole/edge-break rehabilitation; road
+profiling.
+Contact: Mr. Makhoshi (Contractor Manager) — 015 298 8049
+
+--------------------------------------------------------------------------------
+PROJECT 04 — Construction of Rhiza (Babalo) Community Clinic
+--------------------------------------------------------------------------------
+Client:  Rhiza Babalo NGO / Community Healthcare Partner
+Period:  16 September 2021 – 9 December 2021
+Area:    Diepsloot, Gauteng (per B; A does not state area explicitly)
+Scope: Full turnkey build — clearing, formworks, reinforcement, concrete
+slab, bricklaying, plastering, painting, roofing, aluminium doors/
+windows, ironmongery, ceilings, tiling, electrical installation,
+rhinolite finishes, damp-proof course, waterproofing, plumbing.
+Contact: Thambulo Abraham Mabuke — 011 464 5100
+
+--------------------------------------------------------------------------------
+PROJECT 05 — Construction of Mobile Park Homes, Rabie Ridge Midrand Depot
+--------------------------------------------------------------------------------
+Contract No.:  PIK 28/2021-22
+Client:        Pikitup SOC Ltd / City of Johannesburg
+⚠ CONFLICT — Start date: Source B/C say "14 May 2022"; Source C's separate
+  project-header line says "4 MAY 2022" — likely OCR dropping the "1".
+  Best available: 14 May 2022 – November 2022.
+Area:          Rabie Ridge, Midrand Depot, Gauteng
+Scope: Construction of staff area, guardhouse, male/female ablution
+facilities, boundary fence, water/sewer connections, truck parking area;
+foundations and plinths for mobile park home offices; heavy-duty
+concrete/gravel parking area for municipal waste fleet.
+Contact: Patrick Mavuso (Site Manager) — 012 567 7831
+
+--------------------------------------------------------------------------------
+PROJECT 06 — Construction of Commercial House/Office Facility, Samrand
+--------------------------------------------------------------------------------
+Client:  Sedtrade (Pty) Ltd (private commercial developer)
+Period:  14 May 2022 – November 2022 (Source A) — Source B extends this to
+         "14 May 2022 – May 2023" broken into Phase 1 (May–Nov 2022) and
+         Phase 2 (Dec 2022–May 2023).
+         ⚠ CONFLICT: Source A gives a single end date of November 2022;
+         Source B describes a longer two-phase project running to May
+         2023. Recommend confirming actual completion date/certificate.
+Area:    Samrand
+Scope: Excavation, reinforcement, concrete footings, brickwork, drainage,
+damp-proofing, plastering, painting, structural steel framework, scotch
+roofing (timber structure), steel frame installation, exterior doors,
+commercial glazing, architectural ironmongery.
+Contact: Mr. Albert Garikayi (Contractor Manager) — 010 590 8086 | info@sedtrade.co.za
+
+--------------------------------------------------------------------------------
+PROJECT 07 — Construction of 4 Classrooms (with Furniture), Diepsloot West
+Secondary School
+--------------------------------------------------------------------------------
+Client:  Department of Basic Education / School Governing Body
+Period:  16 September – 9 December 2023
+Area:    Diepsloot West Secondary School, Diepsloot, Gauteng
+Scope: Clearing and grubbing, formworks, reinforcement, bricklaying,
+plastering, waterproofing, roof covering, carpentry/joinery, metalworks,
+glazing, tiling, ironmongery, ceilings, partitions, access flooring;
+floor screeding and ceramic tiling; supply/installation of classroom
+furniture (desks, teacher stations, blackboards) — furniture detail
+per Source B only.
+Contact: Mr. Tshilidzi Albert Singo (School Principal) — 010 541 0670
+
+--------------------------------------------------------------------------------
+PROJECT 08 — Upgrading of Gravel Roads, Kaalfontein Phase 3B (Ward 92)
+--------------------------------------------------------------------------------
+Contract No.:  JRA/21/157
+Client:        Johannesburg Roads Agency (JRA)
+Period:        2023 – 2024
+Area:          Reed Fish Street, Kaalfontein Phase 3B, Ward 92, Gauteng
+Scope: Layer works — dump rock layer, road bed layer, stabilised sub-base
+layer and base layer for 1090m × 6.1m at Reed Fish Street; construction
+of 600mm diameter stormwater pipeline and manholes/catchpits/kerb inlet
+structures.
+Contact: Mr. TB Siboza (Site Agent) — 011 979 5329
+
+--------------------------------------------------------------------------------
+PROJECT 09 — Lerome (Thabeng Section) Water Supply & Reticulation
+--------------------------------------------------------------------------------
+Contract No.:  014/MKLM/2022/2023
+Client:        Moses Kotane Local Municipality (MKLM), North West Province
+Period:        6 July 2023 – April 2024
+Scope: Trench excavation in all material classes, backfill and
+compaction, disposal of surplus material; pipe laying on flexible
+bedding with couplings, testing, cleaning, disinfection; erf connections
+(excavation, backfill, compaction, testing); uPVC/HDPE bulk potable
+water supply pipelines, hydrostatic leak testing, chemical disinfection.
+Contact: Mogotsi Obed Kgosiemang (Project Manager) — 071 395 9004
+
+--------------------------------------------------------------------------------
+PROJECT 10 — Upgrading of Gravel Roads, Diepsloot Phase 4 (FY22/23)
+--------------------------------------------------------------------------------
+Contract No.:  JRA/22/83
+Client:        Baithusi Trading / Johannesburg Roads Agency (JRA)
+⚠ CONFLICT — Project period:
+  Source B: "6 July 2023 – April 2024"
+  Source C: "04 November 2023 – February 2024"
+  ➜ Both dates appear verbatim in their respective source documents; they
+    may reflect different milestones (e.g. contract award date vs. a
+    later phase start), or one may be an error. Recommend confirming
+    against the practical completion certificate.
+Area:    Zeph Mothopeng Street, Diepsloot Phase 4, Gauteng
+Scope: Layer works — roadbed prep, selected layer, cement-stabilised
+sub-base, G1 crushed aggregate base layer for 551m × 5.5m at Zeph
+Mothopeng Street; 600mm diameter stormwater pipeline and manholes;
+block-paving sidewalk on both sides of the roadway.
+Contact: Mr. Bophelo Lesia (Site Manager) — 068 003 4790 |
+admin@baithusitrading.co.za
+
+--------------------------------------------------------------------------------
+PROJECT 11 — Road Rehabilitation, Asphalt Resurfacing & Interlocking Paving
+--------------------------------------------------------------------------------
+Contract Ref.: DRT23/05/2016
+Client:        Gauteng Department of Roads and Transport / Civtek
+Scope: Kerb inlets and access chambers with Type 2A manhole covers,
+frames, kerbs, slabs, discharge gutters; reinforced concrete driveway
+entrances, concrete side drains, stone pitching, rumble strips; precast
+concrete kerbing (Figures 8, 8C, 7, 12); road profiling, cold milling,
+asphalt patching, medium-graded asphalt surfacing; 60mm/80mm Type SA
+grey interlocking paving blocks for sidewalks, bus stop loading bays,
+intersections.
+Contact: Paul Bowyer (Site Manager) — 012 666 0900 / 011 422 2222 /
+082 564 0237 | admin@civtek.co.za
+
+--------------------------------------------------------------------------------
+PROJECT 12 — Construction of Tanganani Extension 51 Civil Works, Diepsloot
+(ACTIVE / ONGOING)
+--------------------------------------------------------------------------------
+Client:  Civplant Civils / Civtek
+Period:  February 2025 – Present
+Area:    Tanganani Extension 51, Diepsloot, Gauteng
+Scope: Clearing and grubbing, setting-out and pre-marking, topsoil
+removal (300mm), pipe trenches and bedding, roadbed preparation and
+compaction; supply, laying, bedding and testing of concrete pipe
+culverts — Ogee Class 100D pipes (450, 525, 600, 750, 900, 1050mm
+diameter); 110mm diameter Kaytech perforated subsoil drainage pipes
+wrapped in geotextile filter fabric; manholes with Type 4A cover and
+frame, stepped manholes with drop chambers; standard JRA kerb inlets and
+access chambers (Type 2A covers, drawings JRA-SD-SW-020 to 024); 60mm &
+80mm Type SA interlocking paving blocks; precast concrete kerbing
+(Figures 8, 8C, 7, 12).
+Contact: Paul Bowyer (Site Manager) — 011 422 2222 / 082 564 0237 |
+admin@civtek.co.za
+Note: This is also cited as an active joint-venture project with the
+City of Tshwane (see Project 14 below) — the two may be related but are
+recorded separately in the source documents.
+
+--------------------------------------------------------------------------------
+PROJECT 13 — Extension 14–19 Access Road & Bridge Reconstruction
+--------------------------------------------------------------------------------
+Contract Ref.: 14-2024/25 (Amendment — varied scope of works)
+Location:      Access road between Mahabaneng Village and Matebeleng
+               Village
+Scope: Bridge structure demolition, site prep, foundation bypass
+planning; deep trench and abutment excavation, Class B bedding;
+supply/positioning/structural grouting of precast concrete portal box
+culverts; in-situ reinforced concrete bridge deck casting, abutment
+wingwalls, backfilling and mechanical compaction; Class 100D Ogee
+concrete stormwater pipes (450–1050mm diameter); 110mm perforated
+Kaytech subsoil drainage; Type 4A manholes, stepped drop manholes, Type
+2A kerb inlets; precast concrete kerbing (Figures 8, 8C, 7, 12); 60mm/
+80mm interlocking block paving along access roadway approaches.
+(Client/contact not separately stated — likely same Civtek team as
+Project 12 given contract-numbering pattern and site-team overlap.)
+
+--------------------------------------------------------------------------------
+PROJECT 14 — City of Tshwane Metropolitan Municipality Joint Venture
+--------------------------------------------------------------------------------
+Contract Ref.: Construction Tender — JV SEG 41
+Client:        City of Tshwane Metropolitan Municipality
+Status:        Active Registered Project Partner / Joint Venture
+Scope: Municipal civil infrastructure upgrades, bulk pipe reticulation,
+and roads (Source B).
+
+--------------------------------------------------------------------------------
+PROJECT 15 - Reconstruction and Upgrading of Garstfontein Road (K50) Retaining Walls
+--------------------------------------------------------------------------------
+Client:        Sedtrade (Pty) Ltd
+Period:        2024 - 8 August 2026 (Completion Certificate Issued)
+Scope:         Construction of retaining walls as part of the reconstruction
+               and upgrading of Garstfontein Road (K50) between Loristo and
+               Anton van Wouw Streets, including Solomon Mahlangu Drive between
+               K50 and Gilda/Delfi Road.
+Contract Value: R12,477,889.13 (excluding VAT), subject to remeasurement.
+Status:        Completion certificate issued, subject to final engineering approval.
+
+--------------------------------------------------------------------------------
+PROJECT 16 - Construction of Road K46-AS (DRT 40/11/2014) Subcontract
+--------------------------------------------------------------------------------
+Contract:      DRT 40/11/2014
+Client:        Slim Construction / Gauteng Department of Roads and Transport
+Period:        10 November 2023 - 8 September 2024 (Completion Certificate Provided)
+Scope:         Construction of Road K46-AS under an as-and-when-required contract:
+               construction, supply and installation of kerbing, stormwater
+               infrastructure, gabion baskets, stone pitching and subsoil drainage.
+Contract Value: R16,412,154.17 (including VAT).
+Status:        Certificate of completion provided, subject to final inspection/snags.
+
+
+SECTION 16 — CONTACTABLE REFERENCES DIRECTORY (CONSOLIDATED)
+================================================================================
+Organisation              | Contact Person           | Role          | Tel/Email                              | Project
+----------------------------|---------------------------|---------------|------------------------------------------|------------------
+Civtek / Civplant Civils    | Paul Bowyer               | Site Manager  | 012 666 0900 / 082 564 0237 /            | Projects 11, 12, 13
+                             |                            |               | 011 422 2222 admin@civtek.co.za          |
+Anvisda Plant & Civils      | Mr. Omen Metani            | Site Manager  | 071 704 1876                             | Project 02
+Tarcron Projects            | Mr. Makhoshi               | Contracts Mgr | 015 298 8049                             | Project 03
+Baithusi Trading            | Mr. Bophelo Lesia          | Site Manager  | 068 003 4790 admin@baithusitrading.co.za | Project 10
+Johannesburg Roads Agency   | Mr. TB Siboza              | Site Agent    | 011 979 5329                             | Project 08
+SR Construction              | Mr. Sydney Mello           | Contractor Mgr| 084 055 7742                             | Project 01
+Moses Kotane Municipality   | Mogotsi Obed Kgosiemang    | Project Mgr   | 071 395 9004                             | Project 09
+Sedtrade (Pty) Ltd          | Mr. Albert Garikayi        | Contractor Mgr| 010 590 8086 info@sedtrade.co.za         | Projects 06, 15
+Slim Construction           | Site Representative       | Contractor    | Project Management Team                  | Project 16
+Pikitup SOC Ltd              | Patrick Mavuso             | Site Manager  | 012 567 7831                             | Project 05
+Diepsloot West Secondary    | Tshilidzi Albert Singo     | Principal     | 010 541 0670                             | Project 07
+Rhiza Babalo NGO             | Thambulo Abraham Mabuke    | Project Lead  | 011 464 5100                             | Project 04
+Company Internal (Elphas    | Elphas Goodman Mdaka       | Project &     | 074 481 0520                             | Internal
+ Goodman Mdaka)              |                            | Contracts Mgr |                                          |
+
+
+SECTION 17 — MASTER LOG OF CONFLICTS & ITEMS REQUIRING VERIFICATION
+================================================================================
+This log collects every discrepancy identified while merging the three
+source documents, for quick reference before this file is used in any
+formal tender or legal submission.
+
+1. VAT Number: "4840286027" (A, B) vs "840286027" (C — likely OCR error).
+2. GPG Vendor Number: "11000148444" (A) vs "111000148444" (B ambiguously
+   cites both, C confirms the longer version).
+3. Male co-owner's name: "Lucas Dinga" (A, B, and C's own organogram) vs
+   "Onele Dinga" (C's About Us section only — internally inconsistent,
+   likely OCR misread).
+4. CEO's years of experience: "7 years" (A) vs "7–10 years" (B) vs a
+   garbled "seven (10) years" (C).
+5. Limpopo (Mokopane) and KwaZulu-Natal (Durban) regional offices appear
+   only in Source B — not corroborated by A or C.
+6. Website and social media links appear only in Source B.
+7. Diepsloot Ext 06 subsoil pipe diameter: written as "7.5mm" in both A
+   and C (likely should be "75mm", matching industry-standard subsoil
+   pipe sizing and B's own prose elsewhere).
+8. PIK 28/2021-22 (Rabie Ridge) start date: "14 May 2022" (A, B) vs
+   "4 MAY 2022" (C's project-header line).
+9. Samrand Commercial House (Sedtrade) end date: "November 2022" (A) vs
+   a two-phase project running to "May 2023" (B).
+10. JRA/22/83 Diepsloot Phase 4 period: "6 July 2023 – April 2024" (B) vs
+    "04 November 2023 – February 2024" (C).
+11. Professional/industry body affiliations (SAFCEC, MBA, SACPCMP, ECSA)
+    and the plant/fleet asset register appear only in Source B and are
+    unverified elsewhere.
+
+RECOMMENDATION: For any live tender submission, the statutory numbers
+(VAT, GPG vendor, CIDB, NHBRC, COIDA, UIF, CSD) and any dates cited as
+project completion should be cross-checked against the original
+certificates/completion letters before this consolidated file is relied
+upon as a final source of truth. Everything else — services, project
+scope descriptions, and contact directories — is well-corroborated across
+at least two of the three source documents.
+
+================================================================================
+END OF CONSOLIDATED RECORD
+"We don't just construct buildings — we create lasting legacies."
+MAKHASWA HOLDINGS (PTY) LTD | LIVE BEYOND MEASURES
+================================================================================

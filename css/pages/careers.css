@@ -1,0 +1,517 @@
+/* =====================================================
+   MAKHASWA HOLDINGS — CAREERS PAGE STYLESHEET
+   Specific to careers.html
+   ===================================================== */
+
+/* ── Inline Styles Extracted from careers.html ── */
+.compact-job {
+    margin-top: 16px;
+    margin-bottom: 20px;
+    padding-bottom: 16px;
+    border-bottom: 1px dashed var(--border);
+}
+
+.compact-job:last-of-type {
+    border-bottom: none;
+    margin-bottom: 8px;
+}
+
+.compact-job h4 {
+    color: var(--primary);
+    font-size: 15px;
+    font-weight: 700;
+    margin-bottom: 6px;
+}
+
+.compact-job .job-meta {
+    margin-bottom: 8px;
+}
+
+.compact-job p {
+    font-size: 13.5px;
+    color: var(--text-muted);
+    margin-bottom: 0;
+}
+
+.job-bullets {
+    list-style: disc;
+    padding-left: 20px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+.job-bullets li {
+    font-size: 13.5px;
+    color: var(--text-light);
+    margin-bottom: 6px;
+    font-weight: 600;
+}
+
+.cta-left {
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+/* ── Extracted from base.css ── */
+/* Equal Opportunity & Empowerment callout on careers */
+.eeo-callout {
+    margin-top: 32px;
+    padding: 20px;
+    background: var(--off-white);
+    border-left: 3px solid var(--gold);
+}
+
+.eeo-callout h4 {
+    font-size: 13px;
+    color: var(--primary);
+    margin-bottom: 8px;
+    font-weight: 700;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.eeo-callout h4 i {
+    color: var(--gold);
+    flex-shrink: 0;
+}
+
+.eeo-callout p {
+    font-size: 12.5px;
+    color: var(--text-muted);
+    line-height: 1.6;
+    margin-bottom: 0;
+}
+
+/* Fraud warning callout on careers */
+.fraud-callout {
+    margin-top: 20px;
+    padding: 20px;
+    background: var(--off-white);
+    border-left: 3px solid var(--primary);
+}
+
+.fraud-callout h4 {
+    font-size: 13px;
+    color: var(--primary);
+    margin-bottom: 8px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.fraud-callout p {
+    font-size: 12px;
+    color: var(--text-muted);
+    line-height: 1.5;
+}
+
+/* Careers apply info text */
+.apply-info-text {
+    font-size: 13.5px;
+    color: var(--text-light);
+    line-height: 1.6;
+    margin-bottom: 24px;
+}
+
+/* ── Extracted from components.css (Careers general) ── */
+.career-category {
+    margin-top: 48px;
+}
+
+.category-title {
+    color: var(--primary);
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 8px;
+    padding-bottom: 8px;
+    border-bottom: 2px solid var(--border);
+}
+
+.careers-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 24px;
+    margin-top: 24px;
+}
+
+.job-card {
+    background: var(--white);
+    padding: 24px;
+    border: 1px solid var(--border);
+    border-top: 3px solid var(--primary);
+    box-shadow: var(--shadow-sm);
+    transition: transform var(--transition), box-shadow var(--transition);
+}
+
+.job-card:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-md);
+}
+
+.job-card h3 {
+    color: var(--primary);
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 8px;
+}
+
+.job-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    margin-bottom: 16px;
+    font-size: 12px;
+    color: var(--text-light);
+    font-weight: 600;
+}
+
+.job-meta span {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.job-card p {
+    font-size: 13.5px;
+    color: var(--text-muted);
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.btn-apply {
+    display: inline-block;
+    background: var(--off-white);
+    color: var(--primary);
+    padding: 10px 24px;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    transition: background var(--transition), color var(--transition);
+    border: 1px solid var(--border);
+}
+
+.btn-apply:hover {
+    background: var(--primary);
+    color: var(--white);
+    border-color: var(--primary);
+}
+
+/* ── Extracted from components.css (Careers Multi-Step Form) ── */
+.step-progress {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    margin-bottom: 40px;
+    padding: 0 10px;
+}
+
+.step-progress::before {
+    content: '';
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    right: 20px;
+    height: 3px;
+    background: var(--border);
+    z-index: 1;
+}
+
+.step-progress-item {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    z-index: 2;
+    flex: 1;
+}
+
+.step-num {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: var(--white);
+    border: 3px solid var(--border);
+    color: var(--text-muted);
+    font-size: 14px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background var(--transition), border-color var(--transition), color var(--transition);
+}
+
+.step-label {
+    margin-top: 8px;
+    font-size: 10px;
+    font-weight: 700;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    text-align: center;
+    transition: color var(--transition);
+}
+
+/* Active State */
+.step-progress-item.active .step-num {
+    border-color: var(--primary);
+    background: var(--primary);
+    color: var(--white);
+}
+
+.step-progress-item.active .step-label {
+    color: var(--primary);
+}
+
+/* Completed State */
+.step-progress-item.completed .step-num {
+    border-color: var(--gold);
+    background: var(--gold);
+    color: var(--white);
+}
+
+.step-progress-item.completed .step-label {
+    color: var(--gold);
+}
+
+/* Form Steps Visibility & Animation */
+.form-step {
+    display: none;
+    animation: fadeInStep 0.4s ease forwards;
+}
+
+.form-step.active {
+    display: block;
+}
+
+@keyframes fadeInStep {
+    from {
+        opacity: 0;
+        transform: translateY(12px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.step-heading {
+    color: var(--primary);
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    margin-bottom: 6px;
+    border-bottom: 2px solid var(--border);
+    padding-bottom: 8px;
+    margin-top: 12px;
+}
+
+.step-subheading {
+    font-size: 13px;
+    color: var(--text-light);
+    margin-bottom: 24px;
+}
+
+/* Checkbox Grid for Accreditations */
+.checkbox-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 12px;
+    margin-bottom: 20px;
+    background: var(--off-white);
+    padding: 16px;
+    border: 1px solid var(--border);
+}
+
+.checkbox-item {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.checkbox-item input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+    margin-bottom: 0; /* Override default form margin */
+    cursor: pointer;
+    accent-color: var(--primary);
+}
+
+.checkbox-item label {
+    margin-bottom: 0; /* Override default form block label */
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--text);
+    text-transform: none;
+    letter-spacing: normal;
+    cursor: pointer;
+}
+
+/* Review Panel Summary Styling */
+.review-panel {
+    background: var(--off-white);
+    border: 1px solid var(--border);
+    border-top: 3px solid var(--primary);
+    padding: 20px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+.review-panel h4 {
+    color: var(--primary);
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 16px;
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 8px;
+}
+
+.review-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.review-row {
+    display: grid;
+    grid-template-columns: 180px 1fr;
+    font-size: 13px;
+    line-height: 1.5;
+    padding-bottom: 8px;
+    border-bottom: 1px dashed rgba(0, 0, 0, 0.08);
+}
+
+.review-row:last-child {
+    border-bottom: none;
+    padding-bottom: 0;
+}
+
+.review-label {
+    font-weight: 700;
+    color: var(--primary);
+}
+
+.review-val {
+    color: var(--text);
+    word-break: break-word;
+}
+
+/* Email CV Notice */
+.email-cv-notice {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 16px;
+    background: var(--off-white);
+    border-left: 3px solid var(--primary);
+    display: flex;
+    gap: 12px;
+    align-items: flex-start;
+}
+
+.email-cv-notice .notice-icon {
+    color: var(--primary);
+    flex-shrink: 0;
+    margin-top: 2px;
+}
+
+.email-cv-notice p {
+    font-size: 13.5px;
+    color: var(--text-muted);
+    line-height: 1.6;
+    margin: 0;
+}
+
+.email-cv-notice p strong {
+    color: var(--primary);
+    font-weight: 700;
+}
+
+.email-cv-notice a {
+    color: var(--primary);
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+.email-cv-notice a:hover {
+    color: var(--gold);
+}
+
+/* Step Buttons Styling */
+.step-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 28px;
+    gap: 12px;
+}
+
+.btn-step {
+    padding: 12px 28px;
+    font-family: var(--font);
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: background var(--transition), color var(--transition), transform var(--transition);
+    border: none;
+    outline: none;
+}
+
+.btn-step--back {
+    background: var(--white);
+    color: var(--primary);
+    border: 1px solid var(--border);
+}
+
+.btn-step--back:hover {
+    background: var(--off-white);
+    border-color: var(--primary);
+}
+
+.btn-step--next {
+    background: var(--primary);
+    color: var(--white);
+    margin-left: auto; /* Push next to right if back is hidden */
+}
+
+.btn-step--next:hover {
+    background: var(--primary-mid);
+    transform: translateY(-2px);
+}
+
+.btn-step--submit {
+    background: var(--gold);
+    color: var(--white);
+    margin-left: auto;
+}
+
+.btn-step--submit:hover {
+    background: #b19343;
+    transform: translateY(-2px);
+}
+
+/* Custom Field Validation Visual Cues */
+.input-invalid {
+    border-color: #c0392b !important;
+    background-color: #fdf1f0 !important;
+}
+
+@media (max-width: 600px) {
+    .step-progress-item .step-label {
+        display: none; /* Hide labels on mobile to save horizontal space */
+    }
+    .step-progress::before {
+        top: 20px;
+    }
+    .review-row {
+        grid-template-columns: 1fr;
+        gap: 4px;
+    }
+}

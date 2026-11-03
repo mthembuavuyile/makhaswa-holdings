@@ -1,0 +1,1847 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes">
+    <title>Company Profile | Makhaswa Holdings (Pty) Ltd</title>
+
+    <!-- Meta & SEO -->
+    <meta name="description"
+        content="View the official Makhaswa Holdings (Pty) Ltd company profile. Learn more about our civil engineering services, building construction capabilities, CIDB accreditations, and project track record.">
+    <meta name="author" content="Makhaswa Holdings (Pty) Ltd">
+    <meta name="robots" content="index, follow">
+    <meta name="theme-color" content="#071933">
+    <link rel="canonical" href="https://makhaswaholdings.co.za/company-profile-viewer.html">
+
+    <!-- Open Graph / Facebook / LinkedIn Link Previews -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://makhaswaholdings.co.za/company-profile-viewer.html">
+    <meta property="og:title" content="Company Profile | Makhaswa Holdings (Pty) Ltd">
+    <meta property="og:description"
+        content="View the official Makhaswa Holdings (Pty) Ltd company profile. Learn more about our civil engineering services, building construction capabilities, CIDB accreditations, and project track record.">
+    <meta property="og:image" content="https://makhaswaholdings.co.za/images/logo.jpeg">
+
+    <!-- Twitter Link Previews -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="https://makhaswaholdings.co.za/company-profile-viewer.html">
+    <meta name="twitter:title" content="Company Profile | Makhaswa Holdings (Pty) Ltd">
+    <meta name="twitter:description"
+        content="View the official Makhaswa Holdings (Pty) Ltd company profile. Learn more about our civil engineering services, building construction capabilities, CIDB accreditations, and project track record.">
+    <meta name="twitter:image" content="https://makhaswaholdings.co.za/images/logo.jpeg">
+
+    <!-- Favicons -->
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <link rel="icon" type="image/png" sizes="96x96" href="favicon-96x96.png">
+    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+    <link rel="manifest" href="site.webmanifest">
+
+    <!-- Fonts: Montserrat (Headings) + Inter (Body/UI) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Montserrat:wght@500;600;700;800;900&display=swap"
+        rel="stylesheet">
+
+    <!-- Lucide Icons -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+
+    <!-- Mozilla PDF.js v3.11.174 -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf_viewer.min.css"
+        integrity="sha512-7zpN8Q4Y5kX16zN8mU9N0d8hB8qLz0K4x0q60G0L4P3K1/m+m8E7l0F/R+H8aIe7l9uJ5U+x1aJ+4j1c4w=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+
+    <style>
+        /* ==========================================================================
+           1. DESIGN SYSTEM & CSS VARIABLES
+           ========================================================================== */
+        :root {
+            --mh-navy-dark: #05162d;
+            --mh-navy: #071933;
+            --mh-navy-mid: #0c2d58;
+            --mh-navy-light: #154c8a;
+            --mh-gold: #c8a951;
+            --mh-gold-hover: #dfca7d;
+            --mh-gold-subtle: #fdf9ee;
+            --mh-gold-dark: #9e7f2b;
+
+            --mh-bg-canvas: #121824;
+            --mh-bg-page: #ffffff;
+            --mh-panel-bg: rgba(7, 25, 51, 0.95);
+            --mh-panel-border: rgba(255, 255, 255, 0.12);
+
+            --mh-text-light: #f8fafc;
+            --mh-text-muted: #94a3b8;
+            --mh-text-dark: #0f172a;
+
+            --font-head: 'Montserrat', -apple-system, sans-serif;
+            --font-body: 'Inter', -apple-system, sans-serif;
+
+            --toolbar-height: 60px;
+            --sidebar-width: 250px;
+            --transition-smooth: 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+            --shadow-elevation: 0 12px 36px rgba(0, 0, 0, 0.5);
+        }
+
+        *,
+        *::before,
+        *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        html,
+        body {
+            height: 100%;
+            width: 100%;
+            overflow: hidden;
+            font-family: var(--font-body);
+            background-color: var(--mh-bg-canvas);
+            color: var(--mh-text-light);
+            -webkit-font-smoothing: antialiased;
+        }
+
+        /* ==========================================================================
+           2. STREAMLINED EXECUTIVE TOOLBAR (MODERN CLEAN HYBRID)
+           ========================================================================== */
+        .viewer-header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: var(--toolbar-height);
+            background: rgba(7, 25, 51, 0.95);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0 16px;
+            z-index: 1000;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.35);
+            gap: 12px;
+        }
+
+        /* Left: Logo & Back Link */
+        .header-brand-group {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .back-link {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            color: #f8fafc;
+            text-decoration: none;
+            font-family: var(--font-head);
+            font-size: 0.8rem;
+            font-weight: 600;
+            padding: 7px 12px;
+            border-radius: 6px;
+            background: rgba(255, 255, 255, 0.08);
+            border: 1px solid rgba(255, 255, 255, 0.16);
+            backdrop-filter: blur(4px);
+            transition: all var(--transition-smooth);
+            white-space: nowrap;
+        }
+
+        .back-link:hover {
+            background: rgba(255, 255, 255, 0.16);
+            border-color: rgba(255, 255, 255, 0.35);
+            color: #ffffff;
+            transform: translateX(-2px);
+        }
+
+        .brand-logo-wrap {
+            display: flex;
+            align-items: center;
+            background: #ffffff;
+            padding: 3px 8px;
+            border-radius: 5px;
+            height: 38px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+            text-decoration: none;
+        }
+
+        .brand-logo-wrap img {
+            height: 32px;
+            width: auto;
+            object-fit: contain;
+            display: block;
+        }
+
+        /* Center Controls: Page Navigation & Zoom */
+        .header-center-controls {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            background: rgba(255, 255, 255, 0.06);
+            border: 1px solid rgba(255, 255, 255, 0.12);
+            backdrop-filter: blur(8px);
+            -webkit-backdrop-filter: blur(8px);
+            padding: 4px 10px;
+            border-radius: 30px;
+        }
+
+        .ctrl-btn {
+            background: transparent;
+            border: 1px solid transparent;
+            color: #ffffff;
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            transition: all var(--transition-smooth);
+        }
+
+        .ctrl-btn:hover:not(:disabled) {
+            background: rgba(255, 255, 255, 0.14);
+            color: #ffffff;
+            border-color: rgba(255, 255, 255, 0.25);
+        }
+
+        .ctrl-btn:disabled {
+            opacity: 0.3;
+            cursor: not-allowed;
+        }
+
+        .page-counter-input-wrap {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            font-family: var(--font-head);
+            font-size: 0.85rem;
+            font-weight: 600;
+            color: #ffffff;
+        }
+
+        .page-input {
+            width: 42px;
+            height: 26px;
+            background: rgba(255, 255, 255, 0.08);
+            border: 1px solid rgba(255, 255, 255, 0.18);
+            color: #ffffff;
+            text-align: center;
+            font-family: var(--font-head);
+            font-size: 0.85rem;
+            font-weight: 700;
+            border-radius: 4px;
+            outline: none;
+            transition: border-color 0.2s, background 0.2s;
+        }
+
+        .page-input:focus {
+            border-color: var(--mh-gold);
+            background: rgba(255, 255, 255, 0.16);
+        }
+
+        .v-sep {
+            width: 1px;
+            height: 18px;
+            background: rgba(255, 255, 255, 0.15);
+            margin: 0 4px;
+        }
+
+        .zoom-select {
+            background: rgba(255, 255, 255, 0.08);
+            border: 1px solid rgba(255, 255, 255, 0.18);
+            color: #ffffff;
+            font-family: var(--font-body);
+            font-size: 0.78rem;
+            font-weight: 600;
+            padding: 3px 8px;
+            border-radius: 4px;
+            cursor: pointer;
+            outline: none;
+            transition: border-color 0.2s, background 0.2s;
+        }
+
+        .zoom-select:focus {
+            border-color: rgba(255, 255, 255, 0.4);
+            background: rgba(255, 255, 255, 0.14);
+        }
+
+        .zoom-select option {
+            background: #071933;
+            color: #ffffff;
+        }
+
+        /* Desktop-Only Utilities */
+        .desktop-only {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .mode-toggle-btn {
+            background: rgba(255, 255, 255, 0.06);
+            border: 1px solid rgba(255, 255, 255, 0.16);
+            color: #f8fafc;
+            font-family: var(--font-head);
+            font-size: 0.75rem;
+            font-weight: 600;
+            padding: 5px 10px;
+            border-radius: 4px;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            cursor: pointer;
+            transition: all var(--transition-smooth);
+            white-space: nowrap;
+        }
+
+        .mode-toggle-btn:hover {
+            border-color: rgba(255, 255, 255, 0.35);
+            color: #ffffff;
+            background: rgba(255, 255, 255, 0.14);
+        }
+
+        .mode-toggle-btn.active {
+            background: rgba(200, 169, 81, 0.18);
+            border-color: var(--mh-gold);
+            color: var(--mh-gold-hover);
+        }
+
+        /* Right Actions (Download, Print, Fullscreen, Sidebar) */
+        .header-right-actions {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .icon-action-btn {
+            background: rgba(255, 255, 255, 0.06);
+            border: 1px solid rgba(255, 255, 255, 0.16);
+            color: #f8fafc;
+            width: 34px;
+            height: 34px;
+            border-radius: 6px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            transition: all var(--transition-smooth);
+        }
+
+        .icon-action-btn:hover {
+            background: rgba(255, 255, 255, 0.15);
+            border-color: rgba(255, 255, 255, 0.35);
+            color: #ffffff;
+        }
+
+        .download-cta-btn {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            background: linear-gradient(135deg, #c8a951 0%, #dfca7d 100%);
+            color: #05162d;
+            font-family: var(--font-head);
+            font-size: 0.82rem;
+            font-weight: 800;
+            padding: 7px 16px;
+            border-radius: 6px;
+            text-decoration: none;
+            border: none;
+            cursor: pointer;
+            box-shadow: 0 4px 14px rgba(200, 169, 81, 0.35);
+            transition: all var(--transition-smooth);
+            white-space: nowrap;
+        }
+
+        .download-cta-btn:hover {
+            transform: translateY(-1px);
+            box-shadow: 0 6px 18px rgba(200, 169, 81, 0.5);
+            filter: brightness(1.06);
+        }
+
+        .download-cta-btn span.meta {
+            font-size: 0.72rem;
+            opacity: 0.85;
+            font-weight: 600;
+        }
+
+        /* ==========================================================================
+           3. MAIN VIEWER LAYOUT & DESKTOP SIDEBAR
+           ========================================================================== */
+        .viewer-container {
+            position: absolute;
+            top: var(--toolbar-height);
+            bottom: 0;
+            left: 0;
+            right: 0;
+            display: flex;
+            overflow: hidden;
+        }
+
+        /* Laptop/Desktop Sidebar */
+        .thumbnails-sidebar {
+            width: var(--sidebar-width);
+            background: #111827;
+            border-right: 1px solid rgba(255, 255, 255, 0.1);
+            display: flex;
+            flex-direction: column;
+            transition: transform var(--transition-smooth), width var(--transition-smooth);
+            z-index: 50;
+            overflow: hidden;
+            flex-shrink: 0;
+        }
+
+        .thumbnails-sidebar.collapsed {
+            transform: translateX(-100%);
+            width: 0;
+            border-right: none;
+        }
+
+        .sidebar-header {
+            padding: 12px 16px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+            font-family: var(--font-head);
+            font-size: 0.78rem;
+            font-weight: 700;
+            color: var(--mh-gold);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .sidebar-scroll {
+            flex: 1;
+            overflow-y: auto;
+            padding: 14px;
+            display: flex;
+            flex-direction: column;
+            gap: 14px;
+        }
+
+        .sidebar-scroll::-webkit-scrollbar {
+            width: 5px;
+        }
+
+        .sidebar-scroll::-webkit-scrollbar-thumb {
+            background: rgba(255, 255, 255, 0.2);
+            border-radius: 3px;
+        }
+
+        .thumb-card {
+            background: #1f2937;
+            border: 2px solid transparent;
+            border-radius: 6px;
+            padding: 6px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            text-align: center;
+        }
+
+        .thumb-card:hover {
+            border-color: rgba(200, 169, 81, 0.5);
+            background: #283548;
+        }
+
+        .thumb-card.active {
+            border-color: var(--mh-gold);
+            box-shadow: 0 0 10px rgba(200, 169, 81, 0.35);
+        }
+
+        .thumb-canvas-wrap {
+            width: 100%;
+            background: #ffffff;
+            border-radius: 4px;
+            overflow: hidden;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+            display: flex;
+            justify-content: center;
+        }
+
+        .thumb-canvas-wrap canvas {
+            display: block;
+            width: 100% !important;
+            height: auto !important;
+        }
+
+        .thumb-label {
+            font-family: var(--font-head);
+            font-size: 0.72rem;
+            font-weight: 600;
+            color: var(--mh-text-muted);
+            margin-top: 4px;
+        }
+
+        .thumb-card.active .thumb-label {
+            color: var(--mh-gold);
+            font-weight: 700;
+        }
+
+        /* Document Viewport */
+        .document-viewport {
+            flex: 1;
+            height: 100%;
+            overflow: auto;
+            position: relative;
+            background-color: var(--mh-bg-canvas);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px 16px 60px 16px;
+            scroll-behavior: smooth;
+        }
+
+        .document-viewport::-webkit-scrollbar {
+            width: 8px;
+            height: 8px;
+        }
+
+        .document-viewport::-webkit-scrollbar-track {
+            background: #151922;
+        }
+
+        .document-viewport::-webkit-scrollbar-thumb {
+            background: #334155;
+            border-radius: 4px;
+        }
+
+        .document-viewport::-webkit-scrollbar-thumb:hover {
+            background: var(--mh-gold-dark);
+        }
+
+        /* Page Stack */
+        .pages-stack {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 24px;
+            width: 100%;
+        }
+
+        .page-node {
+            position: relative;
+            background-color: var(--mh-bg-page);
+            box-shadow: var(--shadow-elevation);
+            border-radius: 2px;
+            overflow: hidden;
+        }
+
+        .page-node canvas {
+            display: block;
+        }
+
+        /* Text Layer (For Selection & Accessibility) */
+        .textLayer {
+            position: absolute;
+            left: 0;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            overflow: hidden;
+            opacity: 0.25;
+            line-height: 1.0;
+        }
+
+        .textLayer>span {
+            color: transparent;
+            position: absolute;
+            white-space: pre;
+            cursor: text;
+            transform-origin: 0% 0%;
+        }
+
+        .textLayer ::selection {
+            background: rgba(8, 45, 90, 0.8);
+            color: #ffffff;
+        }
+
+        .page-badge-floater {
+            position: absolute;
+            bottom: -18px;
+            right: 6px;
+            font-family: var(--font-head);
+            font-size: 0.68rem;
+            font-weight: 600;
+            color: var(--mh-text-muted);
+            background: rgba(15, 23, 42, 0.85);
+            padding: 2px 7px;
+            border-radius: 4px;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        /* Single Page Presentation Wrapper */
+        .presentation-mode .pages-stack {
+            height: 100%;
+            justify-content: center;
+        }
+
+        .presentation-mode .page-node:not(.current-presentation-page) {
+            display: none !important;
+        }
+
+        /* Loading & Error States */
+        .viewer-loader {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 14px;
+            z-index: 100;
+            background: rgba(15, 23, 42, 0.95);
+            padding: 28px 40px;
+            border-radius: 10px;
+            border: 1px solid var(--mh-panel-border);
+            box-shadow: 0 16px 40px rgba(0, 0, 0, 0.6);
+            text-align: center;
+        }
+
+        .spinner {
+            width: 42px;
+            height: 42px;
+            border: 3.5px solid rgba(200, 169, 81, 0.2);
+            border-top-color: var(--mh-gold);
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+        }
+
+        @keyframes spin {
+            to {
+                transform: rotate(360deg);
+            }
+        }
+
+        .loader-text {
+            font-family: var(--font-head);
+            font-size: 0.95rem;
+            font-weight: 700;
+            color: #ffffff;
+        }
+
+        .loader-subtext {
+            font-size: 0.78rem;
+            color: var(--mh-text-muted);
+        }
+
+        .viewer-error-card {
+            display: none;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: #0f172a;
+            border: 1px solid rgba(239, 68, 68, 0.35);
+            border-radius: 12px;
+            padding: 32px 28px;
+            max-width: 460px;
+            text-align: center;
+            box-shadow: 0 20px 48px rgba(0, 0, 0, 0.6);
+            z-index: 110;
+        }
+
+        .viewer-error-card h3 {
+            font-family: var(--font-head);
+            font-size: 1.1rem;
+            color: #f87171;
+            margin-bottom: 8px;
+        }
+
+        .viewer-error-card p {
+            font-size: 0.88rem;
+            color: #94a3b8;
+            margin-bottom: 22px;
+            line-height: 1.6;
+        }
+
+        .error-card-actions {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 12px;
+            flex-wrap: wrap;
+        }
+
+        .retry-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background: rgba(255, 255, 255, 0.1);
+            color: #ffffff;
+            font-family: var(--font-head);
+            font-size: 0.82rem;
+            font-weight: 700;
+            padding: 8px 18px;
+            border-radius: 6px;
+            border: 1px solid rgba(255, 255, 255, 0.25);
+            cursor: pointer;
+            transition: all var(--transition-smooth);
+            backdrop-filter: blur(4px);
+        }
+
+        .retry-btn:hover {
+            background: rgba(255, 255, 255, 0.2);
+            border-color: #ffffff;
+            transform: translateY(-1px);
+        }
+
+        /* Presentation Nav Chevrons */
+        .pres-nav-btn {
+            display: none;
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 44px;
+            height: 44px;
+            border-radius: 50%;
+            background: rgba(8, 45, 90, 0.85);
+            border: 1px solid var(--mh-gold);
+            color: #ffffff;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            z-index: 60;
+            box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+            transition: all 0.2s ease;
+        }
+
+        .pres-nav-btn:hover {
+            background: var(--mh-gold);
+            color: var(--mh-navy-dark);
+            transform: translateY(-50%) scale(1.06);
+        }
+
+        .pres-nav-btn.prev {
+            left: 20px;
+        }
+
+        .pres-nav-btn.next {
+            right: 20px;
+        }
+
+        .presentation-mode .pres-nav-btn {
+            display: flex;
+        }
+
+        /* ==========================================================================
+           4. RESPONSIVE DESIGN (Phones vs Laptops)
+           ========================================================================== */
+        /* Phone & Tablet Rules: Hide sidebar/thumbnails entirely, maximize reading area */
+        @media (max-width: 991px) {
+            :root {
+                --toolbar-height: 54px;
+            }
+
+            .thumbnails-sidebar,
+            #btnToggleSidebar,
+            .desktop-only,
+            .zoom-select,
+            .v-sep,
+            .mode-toggle-btn {
+                display: none !important;
+            }
+
+            .viewer-header {
+                padding: 0 10px;
+                gap: 8px;
+            }
+
+            .back-link span {
+                display: none;
+            }
+
+            .back-link {
+                padding: 6px 8px;
+            }
+
+            .brand-logo-wrap {
+                height: 32px;
+                padding: 2px 6px;
+            }
+
+            .brand-logo-wrap img {
+                height: 26px;
+            }
+
+            .header-center-controls {
+                gap: 2px;
+                padding: 2px 6px;
+            }
+
+            .download-cta-btn span.meta {
+                display: none;
+            }
+
+            .download-cta-btn {
+                padding: 6px 10px;
+                font-size: 0.76rem;
+            }
+
+            .document-viewport {
+                padding: 10px 4px 50px 4px;
+            }
+
+            .pages-stack {
+                gap: 16px;
+            }
+
+            .pres-nav-btn.prev {
+                left: 8px;
+            }
+
+            .pres-nav-btn.next {
+                right: 8px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .download-cta-btn span.btn-text {
+                display: none;
+            }
+
+            .download-cta-btn {
+                padding: 6px 8px;
+                border-radius: 50%;
+                width: 32px;
+                height: 32px;
+                justify-content: center;
+            }
+
+            .page-input {
+                width: 34px;
+                font-size: 0.78rem;
+            }
+
+            .page-counter-input-wrap {
+                font-size: 0.78rem;
+            }
+        }
+
+        /* ==========================================================================
+           5. HIGH-DPI PDF PRINT ENGINE & PREPARATION MODAL
+           ========================================================================== */
+        #printServiceContainer {
+            display: none;
+        }
+
+        .print-modal-overlay {
+            position: fixed;
+            inset: 0;
+            background: rgba(5, 26, 54, 0.88);
+            backdrop-filter: blur(8px);
+            -webkit-backdrop-filter: blur(8px);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 10000;
+            padding: 20px;
+            animation: fadeInModal 0.2s ease-out;
+        }
+
+        @keyframes fadeInModal {
+            from {
+                opacity: 0;
+            }
+
+            to {
+                opacity: 1;
+            }
+        }
+
+        .print-modal-card {
+            background: linear-gradient(180deg, #082d5a 0%, #051a36 100%);
+            border: 1.5px solid var(--mh-gold);
+            border-radius: 12px;
+            padding: 32px 36px;
+            max-width: 440px;
+            width: 100%;
+            text-align: center;
+            box-shadow: 0 24px 60px rgba(0, 0, 0, 0.7);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .print-modal-title {
+            font-family: var(--font-head);
+            font-size: 1.05rem;
+            font-weight: 800;
+            color: #ffffff;
+            letter-spacing: 0.3px;
+        }
+
+        .print-modal-status {
+            font-family: var(--font-head);
+            font-size: 0.9rem;
+            color: var(--mh-gold);
+            font-weight: 700;
+        }
+
+        .print-modal-sub {
+            font-size: 0.78rem;
+            color: var(--mh-text-muted);
+            line-height: 1.4;
+        }
+
+        .print-cancel-btn {
+            margin-top: 8px;
+            background: rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.25);
+            color: #ffffff;
+            font-family: var(--font-head);
+            font-size: 0.78rem;
+            font-weight: 600;
+            padding: 6px 18px;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all var(--transition-smooth);
+        }
+
+        .print-cancel-btn:hover {
+            background: rgba(239, 68, 68, 0.2);
+            border-color: #ef4444;
+            color: #fca5a5;
+        }
+
+        /* Pure Document Print Output */
+        @page {
+            size: A4 portrait;
+            margin: 0;
+        }
+
+        @media print {
+
+            *,
+            *::before,
+            *::after {
+                box-shadow: none !important;
+                text-shadow: none !important;
+            }
+
+            html,
+            body {
+                width: 210mm !important;
+                height: 297mm !important;
+                margin: 0 !important;
+                padding: 0 !important;
+                background: #ffffff !important;
+                color: #000000 !important;
+                overflow: visible !important;
+                -webkit-print-color-adjust: exact !important;
+                print-color-adjust: exact !important;
+            }
+
+            /* Hide all web application chrome */
+            .viewer-header,
+            .thumbnails-sidebar,
+            .document-viewport,
+            .pres-nav-btn,
+            .viewer-loader,
+            .viewer-error-card,
+            .print-modal-overlay {
+                display: none !important;
+            }
+
+            /* Display only clean multi-page PDF container */
+            #printServiceContainer {
+                display: block !important;
+                position: static !important;
+                left: 0 !important;
+                top: 0 !important;
+                width: 210mm !important;
+                height: auto !important;
+                margin: 0 !important;
+                padding: 0 !important;
+                background: #ffffff !important;
+            }
+
+            .print-page-sheet {
+                position: relative !important;
+                width: 210mm !important;
+                height: 297mm !important;
+                max-height: 297mm !important;
+                min-height: 297mm !important;
+                page-break-inside: avoid !important;
+                break-inside: avoid !important;
+                page-break-after: always !important;
+                break-after: page !important;
+                margin: 0 !important;
+                padding: 0 !important;
+                overflow: hidden !important;
+                display: flex !important;
+                align-items: center !important;
+                justify-content: center !important;
+                box-sizing: border-box !important;
+                background: #ffffff !important;
+            }
+
+            .print-page-sheet:last-child {
+                page-break-after: auto !important;
+                break-after: auto !important;
+            }
+
+            .print-page-sheet img,
+            .print-page-sheet canvas {
+                width: 100% !important;
+                height: 100% !important;
+                max-width: 210mm !important;
+                max-height: 297mm !important;
+                object-fit: contain !important;
+                display: block !important;
+                margin: 0 auto !important;
+                border: none !important;
+                box-shadow: none !important;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- ==========================================================================
+         TOP STREAMLINED TOOLBAR (Logo + Compact Nav + Download)
+         ========================================================================== -->
+    <header class="viewer-header" role="banner">
+        <!-- Left: Back Button & Logo -->
+        <div class="header-brand-group">
+            <a href="index.html" class="back-link" title="Return to Makhaswa Holdings Website"
+                aria-label="Back to Website">
+                <i data-lucide="arrow-left" width="16" height="16"></i>
+                <span>Back</span>
+            </a>
+            <a href="index.html" class="brand-logo-wrap" title="Makhaswa Holdings Home">
+                <img src="images/transparent-logo.png" alt="Makhaswa Holdings Logo">
+            </a>
+        </div>
+
+        <!-- Center: Page Navigation & Zoom Controls -->
+        <div class="header-center-controls" role="toolbar" aria-label="Document Controls">
+            <button id="btnPrevPage" class="ctrl-btn" title="Previous Page" aria-label="Previous Page">
+                <i data-lucide="chevron-left" width="17" height="17"></i>
+            </button>
+
+            <div class="page-counter-input-wrap">
+                <input type="number" id="inputPageNum" class="page-input" value="1" min="1" max="1"
+                    aria-label="Current Page">
+                <span>/</span>
+                <span id="labelTotalPages">--</span>
+            </div>
+
+            <button id="btnNextPage" class="ctrl-btn" title="Next Page" aria-label="Next Page">
+                <i data-lucide="chevron-right" width="17" height="17"></i>
+            </button>
+
+            <!-- Zoom & Modes (Desktop / Tablet) -->
+            <div class="v-sep"></div>
+
+            <button id="btnZoomOut" class="ctrl-btn desktop-only" title="Zoom Out (-)" aria-label="Zoom Out">
+                <i data-lucide="minus" width="15" height="15"></i>
+            </button>
+
+            <select id="selectZoom" class="zoom-select" aria-label="Zoom Level">
+                <option value="fit-width">Fit Width</option>
+                <option value="fit-page" selected>Fit Page</option>
+                <option value="0.75">75%</option>
+                <option value="1.0">100%</option>
+                <option value="1.25">125%</option>
+                <option value="1.5">150%</option>
+            </select>
+
+            <button id="btnZoomIn" class="ctrl-btn desktop-only" title="Zoom In (+)" aria-label="Zoom In">
+                <i data-lucide="plus" width="15" height="15"></i>
+            </button>
+
+            <div class="v-sep desktop-only"></div>
+
+            <button id="btnToggleMode" class="mode-toggle-btn desktop-only" title="Toggle Scroll vs Presentation Mode">
+                <i data-lucide="book-open" width="14" height="14"></i>
+                <span id="labelViewMode">Scroll Mode</span>
+            </button>
+        </div>
+
+        <!-- Right: Laptop Tools (Thumbnails, Print, Fullscreen) + Download CTA -->
+        <div class="header-right-actions">
+            <!-- Desktop-Only Utility Icons -->
+            <button id="btnToggleSidebar" class="icon-action-btn desktop-only" title="Page Thumbnails"
+                aria-label="Thumbnails">
+                <i data-lucide="layout-grid" width="16" height="16"></i>
+            </button>
+
+            <button id="btnPrint" class="icon-action-btn desktop-only" title="Print Document" aria-label="Print">
+                <i data-lucide="printer" width="16" height="16"></i>
+            </button>
+
+            <button id="btnFullscreen" class="icon-action-btn desktop-only" title="Toggle Fullscreen"
+                aria-label="Fullscreen">
+                <i data-lucide="maximize" width="16" height="16"></i>
+            </button>
+
+            <!-- Direct Request CTA -->
+            <a id="btnDownload" href="mailto:info@makhaswaholdings.co.za?subject=Company%20Profile%20Request%20-%20Makhaswa%20Holdings"
+                class="download-cta-btn"
+                title="Request Official Corporate Profile" aria-label="Request Official Corporate Profile">
+                <i data-lucide="mail" width="15" height="15"></i>
+                <span class="btn-text">Request Profile</span>
+            </a>
+        </div>
+    </header>
+
+    <!-- ==========================================================================
+         MAIN VIEWER WORKSPACE
+         ========================================================================= -->
+    <main class="viewer-container" id="viewerContainer">
+
+        <!-- Left Thumbnail Sidebar (Laptops/Desktops Only) -->
+        <aside class="thumbnails-sidebar collapsed" id="thumbnailsSidebar" aria-label="Page Thumbnails">
+            <div class="sidebar-header">
+                <span>Thumbnails</span>
+                <button id="btnCloseSidebar" class="ctrl-btn" style="width:24px;height:24px;"
+                    aria-label="Close sidebar">
+                    <i data-lucide="x" width="14" height="14"></i>
+                </button>
+            </div>
+            <div class="sidebar-scroll" id="thumbnailsContainer">
+                <!-- Thumbnails rendered dynamically -->
+            </div>
+        </aside>
+
+        <!-- Main Document Viewport -->
+        <div class="document-viewport" id="documentViewport">
+            <!-- Loading Indicator -->
+            <div class="viewer-loader" id="viewerLoader">
+                <div class="spinner"></div>
+                <div class="loader-text">Loading Company Profile...</div>
+                <div class="loader-subtext">Please wait</div>
+            </div>
+
+            <!-- Under Scheduled Revision Status Card -->
+            <div class="viewer-error-card" id="viewerErrorCard" style="max-width: 580px; padding: 40px 32px; text-align: center; border: 1px solid rgba(200, 169, 81, 0.4); box-shadow: 0 16px 40px rgba(0,0,0,0.5);">
+                <i data-lucide="clock" width="44" height="44" color="#C8A951"
+                    style="margin:0 auto 16px auto; display: block;"></i>
+                <h3 style="font-size: 1.35rem; color: #ffffff; margin-bottom: 12px; font-weight: 700;">Profile Under Scheduled Revision</h3>
+                <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.6; margin-bottom: 24px;">
+                    Our comprehensive corporate profile is currently undergoing its annual update to incorporate our latest completed civil engineering and infrastructure projects. In the interim, our verified credentials pack and tender schedules are available directly upon request.
+                </p>
+                <div class="error-card-actions" style="display: flex; justify-content: center; gap: 14px; flex-wrap: wrap;">
+                    <a href="mailto:info@makhaswaholdings.co.za?subject=Company%20Profile%20Request%20-%20Makhaswa%20Holdings"
+                        class="download-cta-btn" style="text-decoration: none; padding: 12px 20px;">
+                        <i data-lucide="mail" width="16" height="16"></i> Request Profile via Email
+                    </a>
+                    <a href="index.html" class="retry-btn" style="text-decoration: none; padding: 12px 20px;">
+                        <i data-lucide="home" width="16" height="16"></i> Return to Homepage
+                    </a>
+                </div>
+            </div>
+
+            <!-- Presentation Navigation Chevrons -->
+            <button class="pres-nav-btn prev" id="btnPresPrev" title="Previous Page" aria-label="Previous Page">
+                <i data-lucide="chevron-left" width="22" height="22"></i>
+            </button>
+            <button class="pres-nav-btn next" id="btnPresNext" title="Next Page" aria-label="Next Page">
+                <i data-lucide="chevron-right" width="22" height="22"></i>
+            </button>
+
+            <!-- Rendered Pages Stack -->
+            <div class="pages-stack" id="pagesStack">
+                <!-- Pages injected dynamically -->
+            </div>
+        </div>
+    </main>
+
+    <!-- Dedicated Full-PDF Print Container (Visible exclusively during @media print) -->
+    <div id="printServiceContainer" aria-hidden="true"></div>
+
+    <!-- Print Preparation Modal Overlay -->
+    <div class="print-modal-overlay" id="printModalOverlay" style="display: none;" role="dialog" aria-modal="true"
+        aria-label="Preparing Document for Print">
+        <div class="print-modal-card">
+            <div class="spinner"></div>
+            <div class="print-modal-title">Preparing Document for Print</div>
+            <div class="print-modal-status" id="printModalStatus">Preparing pages for print...</div>
+            <div class="print-modal-sub">Formatting pages for printer output</div>
+            <button type="button" class="print-cancel-btn" id="btnCancelPrint">Cancel</button>
+        </div>
+    </div>
+
+    <!-- ==========================================================================
+         PDF VIEWER ENGINE SCRIPT
+         ========================================================================== -->
+    <script>
+        (function () {
+            'use strict';
+
+            // 1. Configure PDF.js Worker
+            pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+
+            // 2. Parse URL parameters (Default to official PDF)
+            const urlParams = new URLSearchParams(window.location.search);
+            const PDF_URL = urlParams.get('file') || 'documents/makhaswa-holdings-company-profile.pdf';
+            const INITIAL_PAGE = parseInt(urlParams.get('page'), 10) || 1;
+            const INITIAL_ZOOM = urlParams.get('zoom') || 'fit-page';
+
+            // 3. State Management
+            const state = {
+                pdfDoc: null,
+                totalPages: 0,
+                currentPage: INITIAL_PAGE,
+                zoomMode: INITIAL_ZOOM,
+                customScale: 1.0,
+                currentScale: 1.0,
+                viewMode: 'scroll',
+                renderedPages: new Map()
+            };
+
+            // 4. DOM Elements
+            const el = {
+                viewport: document.getElementById('documentViewport'),
+                pagesStack: document.getElementById('pagesStack'),
+                thumbnailsSidebar: document.getElementById('thumbnailsSidebar'),
+                thumbnailsContainer: document.getElementById('thumbnailsContainer'),
+                loader: document.getElementById('viewerLoader'),
+                errorCard: document.getElementById('viewerErrorCard'),
+                btnPrev: document.getElementById('btnPrevPage'),
+                btnNext: document.getElementById('btnNextPage'),
+                btnPresPrev: document.getElementById('btnPresPrev'),
+                btnPresNext: document.getElementById('btnPresNext'),
+                inputPage: document.getElementById('inputPageNum'),
+                labelTotalPages: document.getElementById('labelTotalPages'),
+                btnZoomIn: document.getElementById('btnZoomIn'),
+                btnZoomOut: document.getElementById('btnZoomOut'),
+                selectZoom: document.getElementById('selectZoom'),
+                btnToggleMode: document.getElementById('btnToggleMode'),
+                labelViewMode: document.getElementById('labelViewMode'),
+                btnToggleSidebar: document.getElementById('btnToggleSidebar'),
+                btnCloseSidebar: document.getElementById('btnCloseSidebar'),
+                btnFullscreen: document.getElementById('btnFullscreen'),
+                btnPrint: document.getElementById('btnPrint'),
+                btnRetry: document.getElementById('btnRetryLoad')
+            };
+
+            // Initialize Lucide Icons
+            lucide.createIcons();
+
+            // ==========================================================================
+            // INITIALIZATION & PDF LOADING
+            // ==========================================================================
+            async function loadPdfDocument() {
+                try {
+                    el.loader.style.display = 'flex';
+                    el.errorCard.style.display = 'none';
+
+                    const loadingTask = pdfjsLib.getDocument({
+                        url: PDF_URL,
+                        cMapUrl: 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/cmaps/',
+                        cMapPacked: true
+                    });
+
+                    loadingTask.onProgress = function (progress) {
+                        if (progress.total > 0) {
+                            const percent = Math.round((progress.loaded / progress.total) * 100);
+                            const sub = el.loader.querySelector('.loader-subtext');
+                            if (sub) sub.textContent = `Downloading ${percent}% (${Math.round(progress.loaded / 1024)} KB)`;
+                        }
+                    };
+
+                    state.pdfDoc = await loadingTask.promise;
+                    state.totalPages = state.pdfDoc.numPages;
+
+                    el.labelTotalPages.textContent = state.totalPages;
+                    el.inputPage.max = state.totalPages;
+                    el.inputPage.value = state.currentPage;
+                    if (el.selectZoom) el.selectZoom.value = state.zoomMode;
+
+                    setupPageNodes();
+                    calculateScaleAndRenderAll();
+
+                    // Only render thumbnails on desktop screens (saves mobile memory & bandwidth)
+                    if (window.innerWidth >= 992) {
+                        setupThumbnails();
+                    }
+
+                    el.loader.style.display = 'none';
+                    setupScrollObserver();
+
+                } catch (err) {
+                    console.error('Error loading PDF document:', err);
+                    el.loader.style.display = 'none';
+                    el.errorCard.style.display = 'block';
+                    lucide.createIcons();
+                }
+            }
+
+            // ==========================================================================
+            // PAGE NODES CREATION
+            // ==========================================================================
+            function setupPageNodes() {
+                el.pagesStack.innerHTML = '';
+
+                for (let i = 1; i <= state.totalPages; i++) {
+                    const pageNode = document.createElement('div');
+                    pageNode.className = 'page-node';
+                    pageNode.id = `page-node-${i}`;
+                    pageNode.dataset.pageNumber = i;
+
+                    const canvas = document.createElement('canvas');
+                    canvas.id = `page-canvas-${i}`;
+                    pageNode.appendChild(canvas);
+
+                    const textLayer = document.createElement('div');
+                    textLayer.className = 'textLayer';
+                    textLayer.id = `text-layer-${i}`;
+                    pageNode.appendChild(textLayer);
+
+                    const badge = document.createElement('div');
+                    badge.className = 'page-badge-floater';
+                    badge.textContent = `Page ${i}`;
+                    pageNode.appendChild(badge);
+
+                    el.pagesStack.appendChild(pageNode);
+                }
+            }
+
+            // ==========================================================================
+            // SCALE CALCULATION & RENDERING
+            // ==========================================================================
+            async function calculateScaleAndRenderAll() {
+                if (!state.pdfDoc) return;
+
+                try {
+                    const firstPage = await state.pdfDoc.getPage(1);
+                    const unscaledViewport = firstPage.getViewport({ scale: 1.0 });
+
+                    const isMobile = window.innerWidth < 992;
+                    const containerWidth = el.viewport.clientWidth - (isMobile ? 12 : 48);
+                    const containerHeight = el.viewport.clientHeight - (isMobile ? 16 : 48);
+
+                    let computedScale = 1.0;
+
+                    if (state.zoomMode === 'fit-width') {
+                        computedScale = Math.min(Math.max(containerWidth / unscaledViewport.width, 0.35), 2.5);
+                    } else if (state.zoomMode === 'fit-page') {
+                        const scaleW = containerWidth / unscaledViewport.width;
+                        const scaleH = containerHeight / unscaledViewport.height;
+                        computedScale = Math.min(scaleW, scaleH, 2.0);
+                    } else {
+                        computedScale = state.customScale;
+                    }
+
+                    state.currentScale = computedScale;
+
+                    if (state.viewMode === 'scroll') {
+                        renderAllPages(computedScale);
+                    } else {
+                        renderSinglePresentationPage(state.currentPage, computedScale);
+                    }
+
+                } catch (err) {
+                    console.error('Error calculating scale:', err);
+                }
+            }
+
+            async function renderPage(pageNum, scale) {
+                if (!state.pdfDoc || pageNum < 1 || pageNum > state.totalPages) return;
+
+                const pageNode = document.getElementById(`page-node-${pageNum}`);
+                const canvas = document.getElementById(`page-canvas-${pageNum}`);
+                const textLayerDiv = document.getElementById(`text-layer-${pageNum}`);
+                if (!pageNode || !canvas || !textLayerDiv) return;
+
+                try {
+                    const page = await state.pdfDoc.getPage(pageNum);
+                    const pixelRatio = window.devicePixelRatio || 1;
+
+                    // Pass the true high-DPI scale into getViewport to prevent PDF.js viewport clipping
+                    const viewport = page.getViewport({ scale: scale * pixelRatio });
+
+                    const cssWidth = Math.floor(viewport.width / pixelRatio);
+                    const cssHeight = Math.floor(viewport.height / pixelRatio);
+
+                    pageNode.style.width = `${cssWidth}px`;
+                    pageNode.style.height = `${cssHeight}px`;
+
+                    canvas.width = Math.floor(viewport.width);
+                    canvas.height = Math.floor(viewport.height);
+                    canvas.style.width = `${cssWidth}px`;
+                    canvas.style.height = `${cssHeight}px`;
+
+                    const ctx = canvas.getContext('2d', { alpha: false });
+                    ctx.imageSmoothingEnabled = true;
+                    ctx.imageSmoothingQuality = 'high';
+
+                    const renderContext = {
+                        canvasContext: ctx,
+                        viewport: viewport
+                    };
+
+                    if (state.renderedPages.has(pageNum)) {
+                        const existing = state.renderedPages.get(pageNum);
+                        if (existing && existing.renderTask) {
+                            existing.renderTask.cancel();
+                        }
+                    }
+
+                    const renderTask = page.render(renderContext);
+                    state.renderedPages.set(pageNum, { canvas, renderTask });
+
+                    await renderTask.promise;
+
+                    // Render Text Layer (in CSS scale)
+                    textLayerDiv.innerHTML = '';
+                    textLayerDiv.style.width = `${cssWidth}px`;
+                    textLayerDiv.style.height = `${cssHeight}px`;
+
+                    const textViewport = page.getViewport({ scale: scale });
+                    const textContent = await page.getTextContent();
+                    pdfjsLib.renderTextLayer({
+                        textContent: textContent,
+                        container: textLayerDiv,
+                        viewport: textViewport,
+                        textDivs: []
+                    });
+
+                } catch (err) {
+                    if (err.name !== 'RenderingCancelledException') {
+                        console.error(`Error rendering page ${pageNum}:`, err);
+                    }
+                }
+            }
+
+            async function renderAllPages(scale) {
+                for (let i = 1; i <= state.totalPages; i++) {
+                    await renderPage(i, scale);
+                }
+            }
+
+            function renderSinglePresentationPage(pageNum, scale) {
+                for (let i = 1; i <= state.totalPages; i++) {
+                    const node = document.getElementById(`page-node-${i}`);
+                    if (!node) continue;
+                    if (i === pageNum) {
+                        node.classList.add('current-presentation-page');
+                        renderPage(i, scale);
+                    } else {
+                        node.classList.remove('current-presentation-page');
+                    }
+                }
+            }
+
+            // ==========================================================================
+            // THUMBNAILS (Laptop / Desktop Only)
+            // ==========================================================================
+            async function setupThumbnails() {
+                if (!el.thumbnailsContainer) return;
+                el.thumbnailsContainer.innerHTML = '';
+
+                for (let i = 1; i <= state.totalPages; i++) {
+                    const card = document.createElement('div');
+                    card.className = `thumb-card ${i === state.currentPage ? 'active' : ''}`;
+                    card.id = `thumb-card-${i}`;
+                    card.onclick = () => goToPage(i);
+
+                    const canvasWrap = document.createElement('div');
+                    canvasWrap.className = 'thumb-canvas-wrap';
+
+                    const canvas = document.createElement('canvas');
+                    canvas.id = `thumb-canvas-${i}`;
+                    canvasWrap.appendChild(canvas);
+
+                    const label = document.createElement('div');
+                    label.className = 'thumb-label';
+                    label.textContent = `Page ${i}`;
+
+                    card.appendChild(canvasWrap);
+                    card.appendChild(label);
+                    el.thumbnailsContainer.appendChild(card);
+
+                    renderThumbnail(i, canvas);
+                }
+            }
+
+            async function renderThumbnail(pageNum, canvas) {
+                try {
+                    const page = await state.pdfDoc.getPage(pageNum);
+                    const pixelRatio = window.devicePixelRatio || 1;
+                    const viewport = page.getViewport({ scale: 0.22 * pixelRatio });
+
+                    canvas.width = Math.floor(viewport.width);
+                    canvas.height = Math.floor(viewport.height);
+                    canvas.style.width = `${Math.floor(viewport.width / pixelRatio)}px`;
+                    canvas.style.height = `${Math.floor(viewport.height / pixelRatio)}px`;
+
+                    const ctx = canvas.getContext('2d');
+
+                    await page.render({
+                        canvasContext: ctx,
+                        viewport: viewport
+                    }).promise;
+
+                } catch (err) {
+                    // Ignore silent thumbnail cancels
+                }
+            }
+
+            function highlightActiveThumbnail(pageNum) {
+                const cards = document.querySelectorAll('.thumb-card');
+                if (!cards.length) return;
+                cards.forEach(card => card.classList.remove('active'));
+                const activeCard = document.getElementById(`thumb-card-${pageNum}`);
+                if (activeCard) {
+                    activeCard.classList.add('active');
+                    activeCard.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+                }
+            }
+
+            // ==========================================================================
+            // NAVIGATION & SCROLL TRACKING
+            // ==========================================================================
+            function goToPage(pageNum) {
+                if (pageNum < 1 || pageNum > state.totalPages) return;
+                state.currentPage = pageNum;
+                el.inputPage.value = pageNum;
+                highlightActiveThumbnail(pageNum);
+                updateNavButtonStates();
+
+                if (state.viewMode === 'scroll') {
+                    const targetNode = document.getElementById(`page-node-${pageNum}`);
+                    if (targetNode) {
+                        targetNode.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                    }
+                } else {
+                    renderSinglePresentationPage(pageNum, state.currentScale);
+                    el.viewport.scrollTop = 0;
+                }
+            }
+
+            function updateNavButtonStates() {
+                el.btnPrev.disabled = state.currentPage <= 1;
+                el.btnNext.disabled = state.currentPage >= state.totalPages;
+                if (el.btnPresPrev) el.btnPresPrev.disabled = state.currentPage <= 1;
+                if (el.btnPresNext) el.btnPresNext.disabled = state.currentPage >= state.totalPages;
+            }
+
+            function setupScrollObserver() {
+                if (!('IntersectionObserver' in window)) return;
+
+                const observer = new IntersectionObserver((entries) => {
+                    if (state.viewMode !== 'scroll') return;
+
+                    let visiblePage = null;
+                    let maxRatio = 0;
+
+                    entries.forEach(entry => {
+                        if (entry.isIntersecting && entry.intersectionRatio > maxRatio) {
+                            maxRatio = entry.intersectionRatio;
+                            visiblePage = parseInt(entry.target.dataset.pageNumber, 10);
+                        }
+                    });
+
+                    if (visiblePage && visiblePage !== state.currentPage) {
+                        state.currentPage = visiblePage;
+                        el.inputPage.value = visiblePage;
+                        highlightActiveThumbnail(visiblePage);
+                        updateNavButtonStates();
+                    }
+                }, {
+                    root: el.viewport,
+                    threshold: [0.25, 0.5, 0.75]
+                });
+
+                document.querySelectorAll('.page-node').forEach(node => observer.observe(node));
+            }
+
+            // ==========================================================================
+            // CONTROLS & LISTENERS
+            // ==========================================================================
+            el.btnPrev.onclick = () => goToPage(state.currentPage - 1);
+            el.btnNext.onclick = () => goToPage(state.currentPage + 1);
+            if (el.btnPresPrev) el.btnPresPrev.onclick = () => goToPage(state.currentPage - 1);
+            if (el.btnPresNext) el.btnPresNext.onclick = () => goToPage(state.currentPage + 1);
+            if (el.btnRetry) el.btnRetry.onclick = () => loadPdfDocument();
+
+            el.inputPage.addEventListener('change', (e) => {
+                const val = parseInt(e.target.value, 10);
+                if (!isNaN(val)) goToPage(val);
+            });
+
+            if (el.selectZoom) {
+                el.selectZoom.addEventListener('change', (e) => {
+                    const val = e.target.value;
+                    if (val === 'fit-width' || val === 'fit-page') {
+                        state.zoomMode = val;
+                    } else {
+                        state.zoomMode = 'custom';
+                        state.customScale = parseFloat(val);
+                    }
+                    calculateScaleAndRenderAll();
+                });
+            }
+
+            if (el.btnZoomIn) {
+                el.btnZoomIn.onclick = () => {
+                    state.zoomMode = 'custom';
+                    state.customScale = Math.min(state.currentScale + 0.25, 2.5);
+                    if (el.selectZoom) el.selectZoom.value = '1.0';
+                    calculateScaleAndRenderAll();
+                };
+            }
+
+            if (el.btnZoomOut) {
+                el.btnZoomOut.onclick = () => {
+                    state.zoomMode = 'custom';
+                    state.customScale = Math.max(state.currentScale - 0.25, 0.4);
+                    if (el.selectZoom) el.selectZoom.value = '1.0';
+                    calculateScaleAndRenderAll();
+                };
+            }
+
+            if (el.btnToggleMode) {
+                el.btnToggleMode.onclick = () => {
+                    if (state.viewMode === 'scroll') {
+                        state.viewMode = 'presentation';
+                        document.body.classList.add('presentation-mode');
+                        el.labelViewMode.textContent = 'Presentation';
+                        el.btnToggleMode.classList.add('active');
+                    } else {
+                        state.viewMode = 'scroll';
+                        document.body.classList.remove('presentation-mode');
+                        el.labelViewMode.textContent = 'Scroll Mode';
+                        el.btnToggleMode.classList.remove('active');
+                    }
+                    calculateScaleAndRenderAll();
+                    goToPage(state.currentPage);
+                };
+            }
+
+            // Sidebar Toggle (Desktop)
+            if (el.btnToggleSidebar && el.thumbnailsSidebar) {
+                function toggleSidebar() {
+                    el.thumbnailsSidebar.classList.toggle('collapsed');
+                }
+                el.btnToggleSidebar.onclick = toggleSidebar;
+                if (el.btnCloseSidebar) el.btnCloseSidebar.onclick = toggleSidebar;
+            }
+
+            // Fullscreen
+            if (el.btnFullscreen) {
+                el.btnFullscreen.onclick = () => {
+                    if (!document.fullscreenElement) {
+                        document.documentElement.requestFullscreen().catch(err => console.warn(err));
+                    } else {
+                        if (document.exitFullscreen) document.exitFullscreen();
+                    }
+                };
+            }
+
+            // ==========================================================================
+            // TRUE PDF PRINT ENGINE (Prints Pure Multi-Page Vector PDF Without UI)
+            // ==========================================================================
+            let isPrintCancelled = false;
+            let isPrintingInProgress = false;
+
+            async function printActualPdf() {
+                if (isPrintingInProgress) return;
+
+                if (!state.pdfDoc || state.totalPages < 1) {
+                    // Fallback to direct raw PDF file download / viewer if document not yet parsed
+                    window.open(PDF_URL, '_blank');
+                    return;
+                }
+
+                const overlay = document.getElementById('printModalOverlay');
+                const statusText = document.getElementById('printModalStatus');
+                const printContainer = document.getElementById('printServiceContainer');
+                const cancelBtn = document.getElementById('btnCancelPrint');
+
+                isPrintCancelled = false;
+                isPrintingInProgress = true;
+
+                if (overlay) overlay.style.display = 'flex';
+                if (printContainer) printContainer.innerHTML = '';
+
+                if (cancelBtn) {
+                    cancelBtn.onclick = () => {
+                        isPrintCancelled = true;
+                        isPrintingInProgress = false;
+                        if (overlay) overlay.style.display = 'none';
+                        if (printContainer) printContainer.innerHTML = '';
+                    };
+                }
+
+                try {
+                    const totalPages = state.totalPages;
+                    // High-quality print scale (2.0 scale provides crisp ~150-200 DPI vector output)
+                    const printScale = 2.0;
+
+                    for (let i = 1; i <= totalPages; i++) {
+                        if (isPrintCancelled) return;
+
+                        if (statusText) {
+                            statusText.textContent = `Rendering page ${i} of ${totalPages}...`;
+                        }
+
+                        const page = await state.pdfDoc.getPage(i);
+                        const viewport = page.getViewport({ scale: printScale });
+
+                        const printCanvas = document.createElement('canvas');
+                        printCanvas.width = Math.floor(viewport.width);
+                        printCanvas.height = Math.floor(viewport.height);
+
+                        const ctx = printCanvas.getContext('2d', { alpha: false });
+                        ctx.imageSmoothingEnabled = true;
+                        ctx.imageSmoothingQuality = 'high';
+
+                        await page.render({
+                            canvasContext: ctx,
+                            viewport: viewport
+                        }).promise;
+
+                        if (isPrintCancelled) return;
+
+                        const pageSheet = document.createElement('div');
+                        pageSheet.className = 'print-page-sheet';
+
+                        const img = document.createElement('img');
+                        img.alt = `Makhaswa Holdings Company Profile - Page ${i}`;
+                        img.src = printCanvas.toDataURL('image/png');
+
+                        pageSheet.appendChild(img);
+                        printContainer.appendChild(pageSheet);
+                    }
+
+                    if (isPrintCancelled) return;
+
+                    if (overlay) overlay.style.display = 'none';
+                    isPrintingInProgress = false;
+
+                    // Allow DOM layout to complete before calling window.print()
+                    setTimeout(() => {
+                        window.print();
+                    }, 150);
+
+                } catch (err) {
+                    console.error('Error preparing PDF for print:', err);
+                    isPrintingInProgress = false;
+                    if (overlay) overlay.style.display = 'none';
+                    // Fallback to opening the PDF directly
+                    window.open(PDF_URL, '_blank');
+                }
+            }
+
+            // Ensure print container is populated if print is invoked via browser menu / window.print
+            window.addEventListener('beforeprint', () => {
+                const printContainer = document.getElementById('printServiceContainer');
+                if (printContainer && printContainer.children.length === 0 && state.totalPages > 0) {
+                    for (let i = 1; i <= state.totalPages; i++) {
+                        const screenCanvas = document.getElementById(`page-canvas-${i}`);
+                        if (screenCanvas && screenCanvas.width > 0) {
+                            const pageSheet = document.createElement('div');
+                            pageSheet.className = 'print-page-sheet';
+                            const img = document.createElement('img');
+                            img.alt = `Makhaswa Holdings Company Profile - Page ${i}`;
+                            img.src = screenCanvas.toDataURL('image/png');
+                            pageSheet.appendChild(img);
+                            printContainer.appendChild(pageSheet);
+                        }
+                    }
+                }
+            });
+
+            // Cleanup after print dialog closes to free memory
+            window.addEventListener('afterprint', () => {
+                const printContainer = document.getElementById('printServiceContainer');
+                if (printContainer) {
+                    printContainer.innerHTML = '';
+                }
+                isPrintingInProgress = false;
+                const overlay = document.getElementById('printModalOverlay');
+                if (overlay) overlay.style.display = 'none';
+            });
+
+            // Print
+            if (el.btnPrint) {
+                el.btnPrint.onclick = (e) => {
+                    e.preventDefault();
+                    printActualPdf();
+                };
+            }
+
+            // Keyboard Shortcuts (Desktop)
+            window.addEventListener('keydown', (e) => {
+                // Intercept Ctrl+P / Cmd+P to print the actual PDF document
+                if ((e.ctrlKey || e.metaKey) && (e.key === 'p' || e.key === 'P')) {
+                    e.preventDefault();
+                    printActualPdf();
+                    return;
+                }
+
+                if (document.activeElement === el.inputPage) return;
+                switch (e.key) {
+                    case 'ArrowRight':
+                    case 'PageDown':
+                        e.preventDefault();
+                        goToPage(state.currentPage + 1);
+                        break;
+                    case 'ArrowLeft':
+                    case 'PageUp':
+                        e.preventDefault();
+                        goToPage(state.currentPage - 1);
+                        break;
+                    case 'Home':
+                        e.preventDefault();
+                        goToPage(1);
+                        break;
+                    case 'End':
+                        e.preventDefault();
+                        goToPage(state.totalPages);
+                        break;
+                }
+            });
+
+            // Touch Gestures for Presentation Mode
+            let touchStartX = 0;
+            let touchStartY = 0;
+
+            el.viewport.addEventListener('touchstart', (e) => {
+                touchStartX = e.changedTouches[0].screenX;
+                touchStartY = e.changedTouches[0].screenY;
+            }, { passive: true });
+
+            el.viewport.addEventListener('touchend', (e) => {
+                if (state.viewMode !== 'presentation') return;
+                const dx = e.changedTouches[0].screenX - touchStartX;
+                const dy = e.changedTouches[0].screenY - touchStartY;
+
+                if (Math.abs(dx) > 50 && Math.abs(dx) > Math.abs(dy) * 1.5) {
+                    if (dx < 0) {
+                        goToPage(state.currentPage + 1);
+                    } else {
+                        goToPage(state.currentPage - 1);
+                    }
+                }
+            }, { passive: true });
+
+            // Resize handler
+            let resizeTimer;
+            window.addEventListener('resize', () => {
+                clearTimeout(resizeTimer);
+                resizeTimer = setTimeout(() => {
+                    if (state.zoomMode === 'fit-width' || state.zoomMode === 'fit-page') {
+                        calculateScaleAndRenderAll();
+                    }
+                }, 150);
+            });
+
+            // Boot
+            document.addEventListener('DOMContentLoaded', loadPdfDocument);
+        })();
+    </script>
+</body>
+
+</html>

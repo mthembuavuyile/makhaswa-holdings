@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://www.xml-sitemaps.com/css/sitemap.css"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- 1. Homepage -->
+  <url>
+    <loc>https://makhaswaholdings.co.za/</loc>
+    <lastmod>2026-10-26T09:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0000</priority>
+    <image:image>
+      <image:loc>https://makhaswaholdings.co.za/images/hero/makhaswa-building.jpeg</image:loc>
+      <image:title>Makhaswa Holdings Infrastructure &amp; Construction</image:title>
+      <image:caption>Makhaswa Holdings CIDB Grade 8 civil engineering and infrastructure delivery across South Africa.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- 2. About Us -->
+  <url>
+    <loc>https://makhaswaholdings.co.za/about.html</loc>
+    <lastmod>2026-10-26T09:00:00+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8000</priority>
+  </url>
+
+  <!-- 3. Services Main Hub -->
+  <url>
+    <loc>https://makhaswaholdings.co.za/services.html</loc>
+    <lastmod>2026-10-26T09:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9000</priority>
+    <image:image>
+      <image:loc>https://makhaswaholdings.co.za/images/projects/civilworks/pumphouse-steel-pipe-works-2.jpeg</image:loc>
+      <image:title>Civil Infrastructure &amp; Pipeline Works</image:title>
+      <image:caption>Trenching, municipal water reticulation, and pumphouse installation.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://makhaswaholdings.co.za/images/projects/roadsandsurfacing/makhaswa-49.jpeg</image:loc>
+      <image:title>Paving and Surfacing Solutions</image:title>
+      <image:caption>Commercial paving and asphalt roadway finishing.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- 4. Road Construction Sub-service -->
+  <url>
+    <loc>https://makhaswaholdings.co.za/services/road-construction.html</loc>
+    <lastmod>2026-10-26T09:00:00+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8000</priority>
+    <image:image>
+      <image:loc>https://makhaswaholdings.co.za/images/projects/roadsandsurfacing/makhaswa-6.jpeg</image:loc>
+      <image:title>Road Construction &amp; Surfacing</image:title>
+      <image:caption>Asphalt surfacing, inlays, road rehabilitation, and kerbing.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- 5. Civil Infrastructure Sub-service -->
+  <url>
+    <loc>https://makhaswaholdings.co.za/services/civil-works.html</loc>
+    <lastmod>2026-10-26T09:00:00+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8000</priority>
+    <image:image>
+      <image:loc>https://makhaswaholdings.co.za/images/projects/civilworks/makhaswa-23.jpeg</image:loc>
+      <image:title>Civil Infrastructure Works</image:title>
+      <image:caption>Stormwater networks, stone pitching, retaining walls, and bulk sewer systems.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- 6. Bulk Earthworks Sub-service -->
+  <url>
+    <loc>https://makhaswaholdings.co.za/services/earthworks.html</loc>
+    <lastmod>2026-10-26T09:00:00+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8000</priority>
+    <image:image>
+      <image:loc>https://makhaswaholdings.co.za/images/projects/earthworks/makhaswa-4.jpeg</image:loc>
+      <image:title>Bulk Earthworks &amp; Site Prep</image:title>
+      <image:caption>Platform terracing, land clearance, grading, and compaction.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- 7. General Building Sub-service -->
+  <url>
+    <loc>https://makhaswaholdings.co.za/services/general-building.html</loc>
+    <lastmod>2026-10-26T09:00:00+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8000</priority>
+    <image:image>
+      <image:loc>https://makhaswaholdings.co.za/images/projects/buildingconstruction/house.jpeg</image:loc>
+      <image:title>General Building Construction</image:title>
+      <image:caption>Commercial facilities, institutional building, and NHBRC residential developments.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- 8. Mechanical Engineering Sub-service -->
+  <url>
+    <loc>https://makhaswaholdings.co.za/services/mechanical-engineering.html</loc>
+    <lastmod>2026-10-26T09:00:00+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8000</priority>
+    <image:image>
+      <image:loc>https://makhaswaholdings.co.za/images/projects/civilworks/valves-and-groundwater-tanks-1.jpeg</image:loc>
+      <image:title>Mechanical Engineering &amp; Pump Stations</image:title>
+      <image:caption>Industrial pumps, manifold installations, valves, and water storage systems.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- 9. Electrical Engineering Sub-service -->
+  <url>
+    <loc>https://makhaswaholdings.co.za/services/electrical-engineering.html</loc>
+    <lastmod>2026-10-26T09:00:00+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8000</priority>
+    <image:image>
+      <image:loc>https://makhaswaholdings.co.za/images/projects/civilworks/high-mast-electrical-1.jpeg</image:loc>
+      <image:title>Electrical Engineering &amp; Reticulation</image:title>
+      <image:caption>High-mast lighting maintenance, substation reticulation, and cabling infrastructure.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- 10. Projects Portfolio -->
+  <url>
+    <loc>https://makhaswaholdings.co.za/projects.html</loc>
+    <lastmod>2026-10-26T09:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8500</priority>
+    <image:image>
+      <image:loc>https://makhaswaholdings.co.za/images/projects/roadsandsurfacing/asphalt-photos-4.jpeg</image:loc>
+      <image:title>Asphalt Surfacing Portfolio</image:title>
+      <image:caption>Asphalt finishing and road construction execution by Makhaswa Holdings.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://makhaswaholdings.co.za/images/projects/civilworks/pumphouse-steel-pipe-works-4.jpeg</image:loc>
+      <image:title>Bulk Steel Piping Pipeline Works</image:title>
+      <image:caption>High-pressure steel pipeline welding and trench installation.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- 11. Careers -->
+  <url>
+    <loc>https://makhaswaholdings.co.za/careers.html</loc>
+    <lastmod>2026-10-26T09:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7000</priority>
+  </url>
+
+  <!-- 12. Contact -->
+  <url>
+    <loc>https://makhaswaholdings.co.za/contact.html</loc>
+    <lastmod>2026-10-26T09:00:00+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7000</priority>
+  </url>
+
+  <!-- 13. FAQ -->
+  <url>
+    <loc>https://makhaswaholdings.co.za/faq.html</loc>
+    <lastmod>2026-10-26T09:00:00+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6000</priority>
+  </url>
+
+  <!-- 14. Terms & Conditions -->
+  <url>
+    <loc>https://makhaswaholdings.co.za/terms.html</loc>
+    <lastmod>2026-10-26T09:00:00+02:00</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3000</priority>
+  </url>
+
+</urlset>

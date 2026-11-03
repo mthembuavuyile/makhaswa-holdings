@@ -1,0 +1,17 @@
+# ARCHIVE NOTES — MAKHASWA HOLDINGS (PTY) LTD
+
+## Archived Physical Addresses & Location Changes
+
+### 1. Johannesburg (Midrand) Physical Address
+- **Address Record:**
+  Johannesburg:[Riversands Incubation Hub, Midrand, Johannesburg, 2189](https://maps.google.com/?q=Riversands%20Incubation%20Hub)
+- **Full Address Details:**
+  No. 19 Riversands Incubation Hub, 8–12 Incubation Drive, Riverside View Ext 15, Midrand, Gauteng, 2189, South Africa
+- **Action Taken:**
+  Removed from active website locations, footer maps, and JSON-LD structured schemas per corporate instructions; retained on the LaTeX Company Profile (makhaswa_company_profile_v1.tex) under regional locations.
+- **Telephone / Desk Line Status:**
+  Johannesburg operations desk landline (011 568 0938) remains active for client, municipal, and site communications.
+- **Official Registered & Head Office Address:**
+  869 Patryshond Street, Garsfontein, Pretoria, Gauteng, 0042, South Africa.
+- **Date Recorded:**
+  October 2026

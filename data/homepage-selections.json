@@ -1,0 +1,21 @@
+{
+  "featuredProjects": [
+    { "category": "building", "imageId": "buildingconstruction-4" },
+    { "category": "civil", "imageId": "civilworks-106" },
+    { "category": "civil", "imageId": "civilworks-gabion-2" },
+    { "category": "civil", "imageId": "civilworks-stone-pitching-3" },
+    { "category": "civil", "imageId": "civilworks-palisade-1" },
+    { "category": "civil", "imageId": "civilworks-11" }
+  ],
+  "whatWeDeliver": [
+    { "category": "building", "imageId": "commercial-building-construction" },
+    { "category": "building", "imageId": "building-construction-commercial" },
+    { "category": "building", "imageId": "reinforced-concrete-brick-building-construction" },
+    { "category": "roads", "imageId": "roadsandsurfacing-18" },
+    { "category": "roads", "imageId": "roadsandsurfacing-22" },
+    { "category": "roads", "imageId": "roadsandsurfacing-14" },
+    { "category": "earthworks", "imageId": "earthworks-6" },
+    { "category": "civil", "imageId": "civilworks-22" },
+    { "category": "civil", "imageId": "civilworks-10" }
+  ]
+}

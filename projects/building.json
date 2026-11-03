@@ -1,0 +1,443 @@
+{
+  "title": "Building Construction & Housing Developments",
+  "description": "Commercial, industrial, public buildings, schools, clinics, and residential housing developments.",
+  "images": [
+    {
+      "id": "buildingconstruction-2",
+      "src": "images/projects/buildingconstruction/high-mast-electrical-2.jpeg",
+      "alt": "High-level building exterior maintenance and plastering using a mobile boom lift with safety helmet PPE.",
+      "title": "Elevated Building Maintenance & Exterior Plastering",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-4",
+      "src": "images/projects/buildingconstruction/building-photos-1.jpeg",
+      "alt": "Completed multi-story residential housing development.",
+      "title": "Multi-Story Residential Complex",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-8",
+      "src": "images/projects/buildingconstruction/building-photos-6.jpeg",
+      "alt": "Exterior view of completed walk-up residential block.",
+      "title": "Walk-Up Housing Block Exterior",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-9",
+      "src": "images/projects/buildingconstruction/building-photos-7.jpeg",
+      "alt": "Courtyard view of multi-story building development.",
+      "title": "Multi-Story Housing Block & Courtyard",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-11",
+      "src": "images/projects/buildingconstruction/makhaswa-49.jpeg",
+      "alt": "Workers constructing a red brick wall using scaffolding on a construction site",
+      "title": "Brick Wall Construction",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-12",
+      "src": "images/projects/buildingconstruction/makhaswa-43.jpeg",
+      "alt": "Workers preparing a large concrete foundation slab with steel reinforcement mesh",
+      "title": "Foundation Slab Preparation",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-13",
+      "src": "images/projects/buildingconstruction/makhaswa-48.jpeg",
+      "alt": "Close-up of structural red brick wall and pillar construction with earthworks at the base",
+      "title": "Structural Brickwork",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-14",
+      "src": "images/projects/buildingconstruction/makhaswa-45.jpeg",
+      "alt": "Long, completed face brick boundary wall constructed outdoors under a clear blue sky",
+      "title": "Perimeter Brick Wall",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-15",
+      "src": "images/projects/buildingconstruction/school.jpeg",
+      "alt": "School building construction",
+      "title": "School Building Construction",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-16",
+      "src": "images/projects/buildingconstruction/clinic.jpeg",
+      "alt": "Rhiza Babuyile Clinic",
+      "title": "Rhiza Babuyile Clinic",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-17",
+      "src": "images/projects/buildingconstruction/house.jpeg",
+      "alt": "House building construction",
+      "title": "House Building Construction",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-18",
+      "src": "images/projects/buildingconstruction/makhaswa-46.jpeg",
+      "alt": "Curved brick boundary wall",
+      "title": "Curved Brick Boundary Wall",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-19",
+      "src": "images/projects/buildingconstruction/building-construction-work-12.jpeg",
+      "alt": "Workers laying steel mesh reinforcement on a flat concrete slab surface at roof level of a commercial building.",
+      "title": "Roof Slab Mesh Laying & Concrete Preparation",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-20",
+      "src": "images/projects/buildingconstruction/building-construction-work-11.jpeg",
+      "alt": "Construction worker in full PPE securing vertical steel rebar column reinforcement on elevated scaffolding at a commercial building site.",
+      "title": "Vertical Rebar Column Reinforcement",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-21",
+      "src": "images/projects/buildingconstruction/building-construction-work-10.jpeg",
+      "alt": "Covered corridor and colonnade brickwork with plastered internal walls on a commercial building.",
+      "title": "Commercial Colonnade & Corridor Masonry",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-22",
+      "src": "images/projects/buildingconstruction/building-construction-work-9.jpeg",
+      "alt": "Long-span steel rebar beam reinforcement assembly and formwork preparation for elevated concrete slab.",
+      "title": "Elevated Slab Rebar & Beam Formwork",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-23",
+      "src": "images/projects/buildingconstruction/building-construction-work-8.jpeg",
+      "alt": "Flat roof slab construction with steel mesh reinforcement laid across concrete soffit shuttering.",
+      "title": "Roof Slab Steel Mesh & Soffit Shuttering",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-24",
+      "src": "images/projects/buildingconstruction/building-construction-work-7.jpeg",
+      "alt": "Reinforced concrete column with timber formwork casing and scaffold support poles on a commercial site.",
+      "title": "Concrete Column Formwork & Scaffolding",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-25",
+      "src": "images/projects/buildingconstruction/building-construction-work-6.jpeg",
+      "alt": "Interior concrete staircase nearing completion with face-brick side walls and open stairwell.",
+      "title": "Interior Staircase Brickwork Completion",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-26",
+      "src": "images/projects/buildingconstruction/building-construction-work-5.jpeg",
+      "alt": "Aerial view of extended commercial building roofline and long-span brick wall construction across the site perimeter.",
+      "title": "Roofline & Long-Span Perimeter Masonry",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-27",
+      "src": "images/projects/buildingconstruction/building-construction-work-4.jpeg",
+      "alt": "Completed multi-storey commercial brick building with recessed balconies and face-brick facade, post-construction.",
+      "title": "Completed Commercial Brick Facade & Balconies",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-28",
+      "src": "images/projects/buildingconstruction/building-construction-work-3.jpeg",
+      "alt": "Completed multi-storey commercial brick building with recessed balconies and face-brick facade, post-construction.",
+      "title": "Completed Commercial Brick Facade & Balconies",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-29",
+      "src": "images/projects/buildingconstruction/building-construction-work-2.jpeg",
+      "alt": "Interior concrete staircase timber formwork boxing with rebar reinforcement visible at base, enclosed by brick walls on a commercial site.",
+      "title": "Interior Staircase Timber Boxing & Formwork",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-30",
+      "src": "images/projects/buildingconstruction/building-construction-work-1.jpeg",
+      "alt": "Interior concrete staircase formwork and rebar reinforcement shuttering in progress on a commercial building site.",
+      "title": "Staircase Formwork & Rebar Reinforcement",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-31",
+      "src": "images/projects/buildingconstruction/building-construction-work-47.jpeg",
+      "alt": "Residential housing brick walls with concrete lintels installed over door and window openings, scaffolding retained in Diepsloot, Johannesburg, Gauteng.",
+      "title": "Diepsloot Housing Development: Concrete Lintels & Residential Wall Openings",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-32",
+      "src": "images/projects/buildingconstruction/building-construction-work-46.jpeg",
+      "alt": "Advanced multi-unit residential brick walls with scaffolding nearing completion of superstructure on housing development in Diepsloot, Johannesburg, Gauteng.",
+      "title": "Diepsloot Housing Development: Superstructure Completion & Multi-Unit Masonry",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-33",
+      "src": "images/projects/buildingconstruction/building-construction-work-45.jpeg",
+      "alt": "Geotagged progress photo of residential brick wall construction showing coursework and window opening formation in Diepsloot, Johannesburg, Gauteng.",
+      "title": "Diepsloot Housing Development: Geotagged Residential Masonry Progress",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-34",
+      "src": "images/projects/buildingconstruction/building-construction-work-44.jpeg",
+      "alt": "Early-stage residential brickwork with foundation walls and scaffold poles positioned for wall construction in Diepsloot, Johannesburg, Gauteng.",
+      "title": "Diepsloot Housing Development: Foundation Walls & Early Scaffold Positioning",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-35",
+      "src": "images/projects/buildingconstruction/building-construction-work-43.jpeg",
+      "alt": "Residential brick walls approaching ring beam height with vertical scaffold poles and brick piers in place in Diepsloot, Johannesburg, Gauteng.",
+      "title": "Diepsloot Housing Development: Ring Beam Level Masonry & Scaffold Setup",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-36",
+      "src": "images/projects/buildingconstruction/building-construction-work-42.jpeg",
+      "alt": "Aerial view of multiple low-rise residential brick wall units under simultaneous construction on a township housing project in Diepsloot, Johannesburg, Gauteng.",
+      "title": "Diepsloot Housing Development: Township Housing Multi-Unit Construction Overview",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-37",
+      "src": "images/projects/buildingconstruction/building-construction-work-41.jpeg",
+      "alt": "Worker in PPE laying face-brick courses on a residential wall with mortar joints and scaffolding visible in Diepsloot, Johannesburg, Gauteng.",
+      "title": "Diepsloot Housing Development: Face-Brick Laying & Mortar Coursework",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-38",
+      "src": "images/projects/buildingconstruction/building-construction-work-40.jpeg",
+      "alt": "Near-complete single brick room with door and window openings plastered and ready for roof installation in Diepsloot, Johannesburg, Gauteng.",
+      "title": "Diepsloot Housing Development: Near-Complete Brick Room & Openings",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-39",
+      "src": "images/projects/buildingconstruction/building-construction-work-39.jpeg",
+      "alt": "Overhead view of timber and steel roof structure framing on a low-cost residential housing development in Diepsloot, Johannesburg, Gauteng.",
+      "title": "Diepsloot Housing Development: Residential Roof Structure Framing",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-40",
+      "src": "images/projects/buildingconstruction/building-construction-work-38.jpeg",
+      "alt": "Multi-unit residential brick wall construction progressing across several stands with scaffold support poles installed in Diepsloot, Johannesburg, Gauteng.",
+      "title": "Diepsloot Housing Development: Multi-Unit Residential Masonry Progress",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-41",
+      "src": "images/projects/buildingconstruction/building-construction-work-37.jpeg",
+      "alt": "Single residential unit brick walls rising to window lintel level with door and window openings formed on site in Diepsloot, Johannesburg, Gauteng.",
+      "title": "Diepsloot Housing Development: Residential Wall Openings & Lintel Level Masonry",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-42",
+      "src": "images/projects/buildingconstruction/building-construction-work-36.jpeg",
+      "alt": "Bricklaying crew constructing ground floor face-brick walls with scaffolding poles erected on a residential housing site in Diepsloot, Johannesburg, Gauteng.",
+      "title": "Diepsloot Housing Development: Ground Floor Brickwork & Scaffolding Erection",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-43",
+      "src": "images/projects/buildingconstruction/building-construction-work-35.jpeg",
+      "alt": "Residential housing brick walls with concrete lintels installed over door and window openings, scaffolding retained in Diepsloot, Johannesburg, Gauteng.",
+      "title": "Diepsloot Housing Development: Concrete Lintels & Residential Wall Openings",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-44",
+      "src": "images/projects/buildingconstruction/building-construction-work-34.jpeg",
+      "alt": "Advanced multi-unit residential brick walls with scaffolding nearing completion of superstructure on housing development in Diepsloot, Johannesburg, Gauteng.",
+      "title": "Diepsloot Housing Development: Superstructure Completion & Multi-Unit Masonry",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-45",
+      "src": "images/projects/buildingconstruction/building-construction-work-33.jpeg",
+      "alt": "Geotagged progress photo of residential brick wall construction showing coursework and window opening formation in Diepsloot, Johannesburg, Gauteng.",
+      "title": "Diepsloot Housing Development: Geotagged Residential Masonry Progress",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-46",
+      "src": "images/projects/buildingconstruction/building-construction-work-32.jpeg",
+      "alt": "Early-stage residential brickwork with foundation walls and scaffold poles positioned for wall construction in Diepsloot, Johannesburg, Gauteng.",
+      "title": "Diepsloot Housing Development: Foundation Walls & Early Scaffold Positioning",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-47",
+      "src": "images/projects/buildingconstruction/building-construction-work-31.jpeg",
+      "alt": "Residential brick walls approaching ring beam height with vertical scaffold poles and brick piers in place in Diepsloot, Johannesburg, Gauteng.",
+      "title": "Diepsloot Housing Development: Ring Beam Level Masonry & Scaffold Setup",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-48",
+      "src": "images/projects/buildingconstruction/building-construction-work-30.jpeg",
+      "alt": "Aerial view of multiple low-rise residential brick wall units under simultaneous construction on a township housing project in Diepsloot, Johannesburg, Gauteng.",
+      "title": "Diepsloot Housing Development: Township Housing Multi-Unit Construction Overview",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-49",
+      "src": "images/projects/buildingconstruction/building-construction-work-29.jpeg",
+      "alt": "Worker in PPE laying face-brick courses on a residential wall with mortar joints and scaffolding visible in Diepsloot, Johannesburg, Gauteng.",
+      "title": "Diepsloot Housing Development: Face-Brick Laying & Mortar Coursework",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-50",
+      "src": "images/projects/buildingconstruction/building-construction-work-28.jpeg",
+      "alt": "Near-complete single brick room with door and window openings plastered and ready for roof installation in Diepsloot, Johannesburg, Gauteng.",
+      "title": "Diepsloot Housing Development: Near-Complete Brick Room & Openings",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-51",
+      "src": "images/projects/buildingconstruction/building-construction-work-27.jpeg",
+      "alt": "Overhead view of timber and steel roof structure framing on a low-cost residential housing development in Diepsloot, Johannesburg, Gauteng.",
+      "title": "Diepsloot Housing Development: Residential Roof Structure Framing",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-52",
+      "src": "images/projects/buildingconstruction/building-construction-work-26.jpeg",
+      "alt": "Multi-unit residential brick wall construction progressing across several stands with scaffold support poles installed in Diepsloot, Johannesburg, Gauteng.",
+      "title": "Diepsloot Housing Development: Multi-Unit Residential Masonry Progress",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-53",
+      "src": "images/projects/buildingconstruction/building-construction-work-25.jpeg",
+      "alt": "Single residential unit brick walls rising to window lintel level with door and window openings formed on site in Diepsloot, Johannesburg, Gauteng.",
+      "title": "Diepsloot Housing Development: Residential Wall Openings & Lintel Level Masonry",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-54",
+      "src": "images/projects/buildingconstruction/building-construction-work-24.jpeg",
+      "alt": "Bricklaying crew constructing ground floor face-brick walls with scaffolding poles erected on a residential housing site in Diepsloot, Johannesburg, Gauteng.",
+      "title": "Diepsloot Housing Development: Ground Floor Brickwork & Scaffolding Erection",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-55",
+      "src": "images/projects/buildingconstruction/building-construction-work-23.jpeg",
+      "alt": "Residential housing brick walls with concrete lintels installed over door and window openings, scaffolding retained in Diepsloot, Johannesburg, Gauteng.",
+      "title": "Diepsloot Housing Development: Concrete Lintels & Residential Wall Openings",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-56",
+      "src": "images/projects/buildingconstruction/building-construction-work-22.jpeg",
+      "alt": "Advanced multi-unit residential brick walls with scaffolding nearing completion of superstructure on housing development in Diepsloot, Johannesburg, Gauteng.",
+      "title": "Diepsloot Housing Development: Superstructure Completion & Multi-Unit Masonry",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-57",
+      "src": "images/projects/buildingconstruction/building-construction-work-21.jpeg",
+      "alt": "Geotagged progress photo of residential brick wall construction showing coursework and window opening formation in Diepsloot, Johannesburg, Gauteng.",
+      "title": "Diepsloot Housing Development: Geotagged Residential Masonry Progress",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-58",
+      "src": "images/projects/buildingconstruction/building-construction-work-20.jpeg",
+      "alt": "Early-stage residential brickwork with foundation walls and scaffold poles positioned for wall construction in Diepsloot, Johannesburg, Gauteng.",
+      "title": "Diepsloot Housing Development: Foundation Walls & Early Scaffold Positioning",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-59",
+      "src": "images/projects/buildingconstruction/building-construction-work-19.jpeg",
+      "alt": "Residential brick walls approaching ring beam height with vertical scaffold poles and brick piers in place in Diepsloot, Johannesburg, Gauteng.",
+      "title": "Diepsloot Housing Development: Ring Beam Level Masonry & Scaffold Setup",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-60",
+      "src": "images/projects/buildingconstruction/building-construction-work-18.jpeg",
+      "alt": "Aerial view of multiple low-rise residential brick wall units under simultaneous construction on a township housing project in Diepsloot, Johannesburg, Gauteng.",
+      "title": "Diepsloot Housing Development: Township Housing Multi-Unit Construction Overview",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-61",
+      "src": "images/projects/buildingconstruction/building-construction-work-17.jpeg",
+      "alt": "Worker in PPE laying face-brick courses on a residential wall with mortar joints and scaffolding visible in Diepsloot, Johannesburg, Gauteng.",
+      "title": "Diepsloot Housing Development: Face-Brick Laying & Mortar Coursework",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-62",
+      "src": "images/projects/buildingconstruction/building-construction-work-16.jpeg",
+      "alt": "Near-complete single brick room with door and window openings plastered and ready for roof installation in Diepsloot, Johannesburg, Gauteng.",
+      "title": "Diepsloot Housing Development: Near-Complete Brick Room & Openings",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-63",
+      "src": "images/projects/buildingconstruction/building-construction-work-15.jpeg",
+      "alt": "Overhead view of timber and steel roof structure framing on a low-cost residential housing development in Diepsloot, Johannesburg, Gauteng.",
+      "title": "Diepsloot Housing Development: Residential Roof Structure Framing",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-64",
+      "src": "images/projects/buildingconstruction/building-construction-work-14.jpeg",
+      "alt": "Multi-unit residential brick wall construction progressing across several stands with scaffold support poles installed in Diepsloot, Johannesburg, Gauteng.",
+      "title": "Diepsloot Housing Development: Multi-Unit Residential Masonry Progress",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "buildingconstruction-65",
+      "src": "images/projects/buildingconstruction/building-construction-work-13.jpeg",
+      "alt": "Single residential unit brick walls rising to window lintel level with door and window openings formed on site in Diepsloot, Johannesburg, Gauteng.",
+      "title": "Diepsloot Housing Development: Residential Wall Openings & Lintel Level Masonry",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "building-construction-commercial",
+      "src": "images/projects/buildingconstruction/building-construction-commercial.jpeg",
+      "alt": "Multi-storey brick building under construction with external scaffolding.",
+      "title": "Commercial Building Construction"
+    },
+    {
+      "id": "reinforced-concrete-brick-building-construction",
+      "src": "images/projects/buildingconstruction/reinforced-concrete-brick-building-construction.jpeg",
+      "alt": "Brick building under construction with reinforced concrete columns and upper-level slab formwork.",
+      "title": "Reinforced Concrete & Brick Building Construction"
+    },
+    {
+      "id": "multi-story-concrete-slab-and-brickwork-construction",
+      "src": "images/projects/buildingconstruction/multi-story-concrete-slab-and-brickwork-construction.jpeg",
+      "alt": "Multi-storey brick building under construction with concrete slabs, columns, and scaffolding.",
+      "title": "Multi-Storey Concrete Slab & Brickwork Construction"
+    },
+    {
+      "id": "commercial-building-construction",
+      "src": "images/projects/buildingconstruction/commercial-building-construction.jpeg",
+      "alt": "Multi-storey brick building with a blue roof, shown during construction.",
+      "title": "Commercial Building Construction"
+    }
+  ]
+}

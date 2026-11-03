@@ -1,0 +1,255 @@
+/* =====================================================
+   MAKHASWA HOLDINGS — MAIN STYLESHEET
+   Shared across index.html, about.html, services.html
+   ===================================================== */
+
+/* =====================================================
+   CSS CUSTOM PROPERTIES
+   ===================================================== */
+:root {
+    --primary: #082d5a;
+    --primary-mid: #0c3a6d;
+    --accent: #1a3668;
+    --white: #ffffff;
+    --off-white: #f4f6f8;
+    --text: #333333;
+    --text-light: #666666;
+    --text-muted: #999999;
+    --border: #e0e0e0;
+    --font: 'Montserrat', sans-serif;
+    --header-h: 72px;
+    --transition: 0.25s ease;
+    --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.06);
+    --shadow-md: 0 4px 20px rgba(0, 0, 0, 0.10);
+    --gold: #c8a951;
+}
+
+/* =====================================================
+   RESET & BASE
+   ===================================================== */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: var(--font);
+    color: var(--text);
+    line-height: 1.6;
+    background: var(--white);
+    overflow-x: hidden;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+ul {
+    list-style: none;
+}
+
+/* =====================================================
+   TYPOGRAPHY HELPERS
+   ===================================================== */
+.section-title {
+    color: var(--primary);
+    font-size: clamp(20px, 2.5vw, 28px);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 24px;
+}
+
+.section-subtitle {
+    font-size: 14px;
+    color: var(--text-light);
+    max-width: 640px;
+    line-height: 1.7;
+}
+
+.section-banner {
+    background: var(--primary);
+    color: var(--white);
+    text-align: center;
+    padding: 14px 20px;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-left {
+    text-align: left;
+}
+
+/* =====================================================
+   UTILITY CLASSES — Replace inline styles (DRY)
+   ===================================================== */
+.u-center-block {
+    text-align: center;
+}
+
+.u-mt-sm {
+    margin-top: 1rem;
+}
+
+.u-mt-md {
+    margin-top: 1.2rem;
+}
+
+.u-mb-sm {
+    margin-bottom: 0.5rem;
+}
+
+.u-mb-md {
+    margin-bottom: 1rem;
+}
+
+.u-mb-lg {
+    margin-bottom: 1.5rem;
+}
+
+.u-font-office-heading {
+    font-size: 1.1rem;
+}
+
+/* Subtitle positioning helpers */
+.section-subtitle--centered {
+    text-align: center;
+    margin: 0 auto 32px;
+    max-width: 800px;
+}
+
+.section-subtitle--tight {
+    text-align: center;
+    margin: -16px auto 12px;
+}
+
+.section-subtitle--spaced {
+    text-align: center;
+    margin: -16px auto 40px;
+}
+
+.section-subtitle--bottom {
+    text-align: center;
+    margin: 28px auto 0;
+    font-size: 13px;
+}
+
+.section-subtitle--open {
+    margin-top: -16px;
+    margin-bottom: 32px;
+}
+
+/* Grade-codes block used inside compliance cards */
+.grade-codes--block {
+    margin-top: 12px;
+    font-size: 15px;
+}
+
+.grade-codes--sub {
+    font-size: 13px;
+    color: var(--text-light);
+    display: block;
+    margin-bottom: 8px;
+}
+
+/* Grade badge override for about page */
+.grade-badge--sm {
+    width: 36px;
+    height: 36px;
+    font-size: 18px;
+    margin-bottom: 12px;
+}
+
+/* Accreditation logo centered (about page) */
+.accreditation-logo--centered {
+    margin: 0 auto 16px;
+}
+
+/* B-BBEE value size overrides */
+.bbee-value--sm {
+    font-size: 20px;
+}
+
+.bbee-value--xs {
+    font-size: 16px;
+}
+
+/* CTA wrapper */
+.cta-center {
+    text-align: center;
+    margin-top: 32px;
+}
+
+/* Container top-padding variant */
+.container--pt-flush {
+    padding-top: 40px;
+}
+
+
+
+/* Icon vertical-align helper */
+.icon-inline {
+    vertical-align: middle;
+    margin-right: 8px;
+}
+
+/* Footer component styles — replaces inline styles on map items */
+.map-title {
+    font-size: 11px;
+    color: #aec4db;
+    display: block;
+    margin-bottom: 4px;
+}
+
+.map-item--spaced {
+    margin-bottom: 12px;
+}
+
+.footer-contact-separator {
+    margin-top: 10px;
+}
+
+
+
+/* Services list with top margin */
+.services-list--mt {
+    margin-top: 16px;
+}
+
+/* FAQ answer link style */
+.link-primary {
+    color: var(--primary);
+    text-decoration: underline;
+}
+
+/* Legal contact link */
+.link-primary-bold {
+    color: var(--primary);
+    font-weight: 600;
+}
+
+/* Contact form CTA hero heading style */
+.section-title--contact-heading {
+    margin-top: 40px;
+    margin-bottom: 8px;
+}
