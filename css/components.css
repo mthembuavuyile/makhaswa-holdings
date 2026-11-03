@@ -2709,20 +2709,58 @@ nav a.nav-contact-btn:hover {
     margin-top: 3px;
 }
 
-/* Minimal Project Photo Grid */
+/* Minimal Project Photo Grid — Symmetrical & Auto-Centered */
 .service-simple-gallery {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
     gap: 24px;
     margin-top: 32px;
+}
+
+.service-gallery-item {
+    flex: 0 1 calc(25% - 18px);
+    min-width: 260px;
+    max-width: 290px;
+    display: flex;
+    flex-direction: column;
+}
+
+@media (max-width: 1200px) {
+    .service-gallery-item {
+        flex: 0 1 calc(33.333% - 16px);
+        max-width: 320px;
+    }
+}
+
+@media (max-width: 860px) {
+    .service-gallery-item {
+        flex: 0 1 calc(50% - 12px);
+        max-width: 360px;
+    }
+}
+
+@media (max-width: 560px) {
+    .service-gallery-item {
+        flex: 0 1 100%;
+        max-width: 100%;
+    }
 }
 
 .service-gallery-item img {
     width: 100%;
     height: 220px;
-    object-fit: cover;
+    object-fit: contain;
+    background: #0b1728; /* Makhaswa corporate deep navy matting */
     display: block;
+    border-radius: 6px;
     box-shadow: var(--shadow-sm);
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.service-gallery-item:hover img {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
 }
 
 .service-gallery-item h4 {
