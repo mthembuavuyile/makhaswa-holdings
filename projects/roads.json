@@ -192,6 +192,30 @@
       "alt": "Worker installing and finishing concrete road curbs",
       "title": "Concrete Road Kerbing",
       "subdiscipline": "roads-and-surfacing"
+    },
+    {
+      "id": "roadsandsurfacing-concrete-pavement-48",
+      "src": "images/projects/roadsandsurfacing/makhaswa-48.jpeg",
+      "alt": "Freshly laid concrete road pavement and access road surfacing in residential township",
+      "title": "Concrete Road Pavement & Township Surfacing",
+      "date": "2024-08-01",
+      "subdiscipline": "roads-and-surfacing"
+    },
+    {
+      "id": "roadsandsurfacing-kerb-alignment-46",
+      "src": "images/projects/roadsandsurfacing/makhaswa-46.jpeg",
+      "alt": "Curved precast concrete barrier kerb alignment along prepared road layer works bed with pedestrian roller",
+      "title": "Curved Precast Road Kerbing & Layer Works",
+      "date": "2024-08-01",
+      "subdiscipline": "roads-and-surfacing"
+    },
+    {
+      "id": "roadsandsurfacing-traffic-signal-1",
+      "src": "images/projects/roadsandsurfacing/traffic-signal-installation.jpeg",
+      "alt": "South African standard SARTSM traffic signal head and intersection cabling installation",
+      "title": "Traffic Signals & Intersection Upgrades",
+      "date": "2024-08-01",
+      "subdiscipline": "roads-and-surfacing"
     }
   ]
 }

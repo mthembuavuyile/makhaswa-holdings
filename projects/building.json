@@ -36,11 +36,11 @@
     },
     {
       "id": "buildingconstruction-11",
-      "src": "images/projects/roadsandsurfacing/makhaswa-49.jpeg",
-      "alt": "Workers constructing a red brick wall using scaffolding on a construction site",
-      "title": "Brick Wall Construction",
+      "src": "images/projects/buildingconstruction/commercial/bricklayer-crew-scaffolding-masonry-construction.jpeg",
+      "alt": "Bricklayer crew erecting structural exterior brick wall with safety scaffolding",
+      "title": "Commercial Bricklaying & Scaffolding",
       "date": "2024-08-01",
-      "subdiscipline": "roads-and-surfacing"
+      "subdiscipline": "commercial"
     },
     {
       "id": "buildingconstruction-12",
@@ -52,19 +52,19 @@
     },
     {
       "id": "buildingconstruction-13",
-      "src": "images/projects/roadsandsurfacing/makhaswa-48.jpeg",
-      "alt": "Close-up of structural red brick wall and pillar construction with earthworks at the base",
-      "title": "Structural Brickwork",
+      "src": "images/projects/buildingconstruction/commercial/multi-story-brick-building-construction.jpeg",
+      "alt": "Multi-story structural brickwork and reinforced concrete frame construction on building site",
+      "title": "Structural Masonry & Multi-Story Brickwork",
       "date": "2024-08-01",
-      "subdiscipline": "roads-and-surfacing"
+      "subdiscipline": "commercial"
     },
     {
       "id": "buildingconstruction-14",
-      "src": "images/projects/civilworks/boundary-walls/brick-boundary-wall-01.jpeg",
-      "alt": "Long, completed face brick boundary wall constructed outdoors under a clear blue sky",
-      "title": "Perimeter Brick Wall",
+      "src": "images/projects/buildingconstruction/commercial/multi-story-concrete-slab-and-brickwork-construction.jpeg",
+      "alt": "Reinforced concrete slab and structural brickwork infill on multi-story building development",
+      "title": "Structural Concrete Frame & Brick Infill",
       "date": "2024-08-01",
-      "subdiscipline": "boundary-walls"
+      "subdiscipline": "commercial"
     },
     {
       "id": "buildingconstruction-15",
@@ -92,11 +92,11 @@
     },
     {
       "id": "buildingconstruction-18",
-      "src": "images/projects/roadsandsurfacing/makhaswa-46.jpeg",
-      "alt": "Curved brick boundary wall",
-      "title": "Curved Brick Boundary Wall",
+      "src": "images/projects/buildingconstruction/residential/diepsloot-residential-bricklaying-house-construction-johannesburg-1.jpeg",
+      "alt": "Bricklayer crew constructing residential brickwork and masonry on housing development",
+      "title": "Residential Housing Brickwork & Masonry",
       "date": "2024-08-01",
-      "subdiscipline": "roads-and-surfacing"
+      "subdiscipline": "residential"
     },
     {
       "id": "buildingconstruction-19",
